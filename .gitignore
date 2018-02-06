@@ -1,3 +1,12 @@
 *.pyc
 *.bak
 .ipynb_checkpoints
+04-Data Files and Cleaning/my_data.csv
+04-Data Files and Cleaning/temp.json
+04-Data Files and Cleaning/tempfile.txt
+04-Data Files and Cleaning/working-with-files.ipynb
+05-Pandas Basics Part 1/From-Rows-to-Lists-Arrays-and-DataFrames.ipynb
+05-Pandas Basics Part 1/Basic-Operations-Using-Pandas.ipynb
+04-Data Files and Cleaning/working-with-files.ipynb
+04-Data Files and Cleaning/working-with-files.ipynb
+05-Pandas Basics Part 1/Basic-Operations-Using-Pandas.ipynb
