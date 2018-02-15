@@ -1,0 +1,21 @@
+,airline,airline_id,source_x,source_id,dest,dest_id,codeshare,stops,equipment,id,name,city,country,iata,icao,latitude,longitude,altitude,timezone,dst,tz,type,source_y
+0,9E,3976.0,LEX,4017.0,ATL,3682.0,,0,CRJ,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+1,AA,24.0,LEX,4017.0,CLT,3876.0,Y,0,CR7 CRJ,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+2,AA,24.0,LEX,4017.0,DFW,3670.0,Y,0,ERD ER4,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+3,AA,24.0,LEX,4017.0,ORD,3830.0,Y,0,ERD ER4,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+4,AF,137.0,LEX,4017.0,ATL,3682.0,Y,0,CRJ CR9,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+5,DL,2009.0,LEX,4017.0,ATL,3682.0,,0,M88 717,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+6,DL,2009.0,LEX,4017.0,DCA,3520.0,Y,0,CRJ,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+7,DL,2009.0,LEX,4017.0,DTW,3645.0,Y,0,CR7 CRJ CR9,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+8,DL,2009.0,LEX,4017.0,LGA,3697.0,,0,ERJ,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+9,DL,2009.0,LEX,4017.0,MSP,3858.0,Y,0,CRJ,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+10,G4,35.0,LEX,4017.0,FLL,3533.0,,0,M80,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+11,G4,35.0,LEX,4017.0,PGD,7056.0,,0,M80,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+12,G4,35.0,LEX,4017.0,PIE,3617.0,,0,320,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+13,G4,35.0,LEX,4017.0,SFB,4167.0,,0,M80 320,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+14,KL,3090.0,LEX,4017.0,ATL,3682.0,Y,0,CR9 CRJ,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+15,UA,5209.0,LEX,4017.0,IAH,3550.0,Y,0,ERJ,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+16,UA,5209.0,LEX,4017.0,ORD,3830.0,Y,0,ERJ CRJ,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+17,US,5265.0,LEX,4017.0,CLT,3876.0,,0,CR7,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+18,US,5265.0,LEX,4017.0,DFW,3670.0,,0,ERD,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
+19,US,5265.0,LEX,4017.0,ORD,3830.0,Y,0,ERD ER4,4017,Blue Grass Airport,Lexington KY,United States,LEX,KLEX,38.0364990234375,-84.60590362548828,979,-5.0,A,America/New_York,airport,OurAirports
