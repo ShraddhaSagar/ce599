@@ -40,9 +40,35 @@ class SchellingAgent():
         '''
         print('Implement is_happy()')
         
+        if self.calculate_similarity() > 0.3:
+            return True
+        else:
+            return False
+        
     def move(self):
         '''
         Moves the agent to a randomly selected empty square.  
         '''
+        rows=len(self.grid)
+        cols=len(self.grid[0])
+        
+        empty_squares = []
+        
+        for x in range(0, rows):
+            for y in range(1,cols):
+                if self.grid[x][y] == 0:
+                    empty_squares.append((x,y))
+        
+        cum_prob=0
+        cum_prob_array = []
+        for i in range(0,len(empty_squares)):
+            cum_prob += 1/ len(empty_squares)
+            cum_prob_array.append(cum_prob)
+        
+        rand-random.random()
+        for i in range(0, len(cum_prob_array)):
+            rand < cum_prob_array[i]:
+                new_pos = empty_squares[i]:
+  
         print('Implement move')
         
