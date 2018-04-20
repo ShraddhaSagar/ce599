@@ -1,0 +1,41 @@
+StationID,Checkout Station,Return Station,Checkout Station Latitude,Checkout Station Longitude,Return Station Latitude,Return Station Longitude,Power Source,Installation Date,Removal Date,Most Recent Number of Docks
+102,11th & Pearl,11th & Pearl,40.017535,-105.281234,40.017535,-105.281234,Grid electricity,5/20/2011,Not applicable,15
+103,13th & Arapahoe,13th & Arapahoe,40.0146,-105.27778,40.0146,-105.27778,Solar,9/12/2014,Not applicable,13
+104,13th & College,13th & College,40.007386,-105.276681,40.007386,-105.276681,Solar,8/6/2014,Not applicable,13
+105,13th & Spruce,13th & Spruce,40.01909,-105.278898,40.01909,-105.278898,Solar,5/20/2011,Not applicable,14
+106,14th & Canyon,14th & Canyon,40.01663,-105.27646,40.01663,-105.27646,Grid electricity,10/6/2011,Not applicable,15
+107,15th & Pearl,15th & Pearl,40.018721,-105.27584,40.018721,-105.27584,Grid electricity,5/20/2011,Not applicable,15
+108,19th @ Boulder Creek,19th @ Boulder Creek,40.01177,-105.27006,40.01177,-105.27006,Solar,5/20/2011,Not applicable,13
+109,20th & Pearl,20th & Pearl,40.019875,-105.269518,40.019875,-105.269518,Solar,9/4/2014,Not applicable,14
+110,21st & Arapahoe,21st & Arapahoe,40.014528,-105.267262,40.014528,-105.267262,Grid electricity,8/5/2014,Not applicable,15
+111,26th @ Pearl,26th @ Pearl,40.0216,-105.25984,40.0216,-105.25984,Grid electricity,5/20/2011,Not applicable,11
+113,28th & Boulder Creek,28th & Boulder Creek,40.010654,-105.258941,40.010654,-105.258941,Solar,10/2/2014,Not applicable,13
+114,28th & Mapleton,28th & Mapleton,40.0262,-105.25856,40.0262,-105.25856,Solar,1/12/2016,Not applicable,14
+115,29th & Pearl,29th & Pearl,40.022889,-105.256461,40.022889,-105.256461,Solar,7/30/2014,Not applicable,18
+116,30th & Diagonal Highway,30th & Diagonal Highway,40.03751,-105.25351,40.03751,-105.25351,Solar,8/2/2016,Not applicable,13
+117,30th & Glenwood,30th & Glenwood,40.033873,-105.253931,40.033873,-105.253931,Solar,9/2/2014,Not applicable,16
+118,30th & Marine,30th & Marine,40.01356,-105.25354,40.01356,-105.25354,Grid electricity,11/3/2016,Not applicable,15
+119,31st & Pearl,31st & Pearl,40.02308,-105.25175,40.02308,-105.25175,Grid electricity,10/2/2014,Not applicable,11
+121,35th & Colorado,35th & Colorado,40.007666,-105.247925,40.007666,-105.247925,Solar,10/8/2014,Not applicable,14
+122,38th & Arapahoe,38th & Arapahoe,40.015078,-105.246967,40.015078,-105.246967,Solar,8/12/2014,Not applicable,13
+123,48th & Arapahoe,48th & Arapahoe,40.0149,-105.23558,40.0149,-105.23558,Solar,8/6/2014,Not applicable,17
+124,6th & Canyon,6th & Canyon,40.01506,-105.28729,40.01506,-105.28729,Grid electricity,9/30/2011,Not applicable,11
+125,9th & Pearl,9th & Pearl,40.01688,-105.28396,40.01688,-105.28396,Grid electricity,8/3/2016,Not applicable,10
+127,Broadway & Alpine,Broadway & Alpine,40.02543,-105.28144,40.02543,-105.28144,Solar,5/20/2011,Not applicable,13
+128,Broadway & Baseline,Broadway & Baseline,40.000046,-105.261682,40.000046,-105.261682,Solar,7/31/2014,Not applicable,17
+129,Broadway & Euclid,Broadway & Euclid,40.00638,-105.2724,40.00638,-105.2724,Solar,8/23/2012,Not applicable,17
+130,Broadway & Iris,Broadway & Iris,40.037422,-105.28064,40.037422,-105.28064,Solar,11/2/2012,Not applicable,13
+131,Broadway & University,Broadway & University,40.010598,-105.276635,40.010598,-105.276635,Solar,8/14/2012,Not applicable,13
+132,Folsom & Colorado,Folsom & Colorado,40.008107,-105.263846,40.008107,-105.263846,Solar,10/8/2014,Not applicable,15
+133,Folsom & Pearl,Folsom & Pearl,40.021441,-105.263643,40.021441,-105.263643,Grid electricity,9/15/2014,Not applicable,13
+134,Gunbarrel North,Gunbarrel North,40.07488,-105.20226,40.07488,-105.20226,Overnight grid electricity,9/8/2015,Not applicable,12
+135,Library @ Arapahoe,Library @ Arapahoe,40.01377,-105.28087,40.01377,-105.28087,Solar,5/20/2011,Not applicable,11
+136,Municipal Building,Municipal Building,40.01508,-105.27959,40.01508,-105.27959,Grid electricity,5/20/2011,Not applicable,9
+137,North Boulder Recreation Center,North Boulder Recreation Center,40.032004,-105.28022,40.032004,-105.28022,Grid electricity,8/9/2012,Not applicable,13
+139,Settlers' Park,Settlers' Park,40.01436,-105.29497,40.01436,-105.29497,Solar,8/5/2014,Not applicable,13
+141,The Village,The Village,40.01491,-105.26061,40.01491,-105.26061,Solar,8/26/2011,Not applicable,14
+142,Twenty Ninth Street North,Twenty Ninth Street North,40.018809,-105.255959,40.018809,-105.255959,Grid electricity,12/21/2012,Not applicable,14
+143,Twenty Ninth Street South,Twenty Ninth Street South,40.0161,-105.25807,40.0161,-105.25807,Solar,5/20/2011,Not applicable,9
+144,UCAR Center Green,UCAR Center Green,40.03154,-105.24611,40.03154,-105.24611,Solar,5/20/2011,Not applicable,13
+145,UCAR Mitchell Lane,UCAR Mitchell Lane,40.03643,-105.24226,40.03643,-105.24226,Solar,5/20/2011,Not applicable,15
+147,Williams Village,Williams Village,39.99915,-105.25264,39.99915,-105.25264,Solar,9/2/2014,Not applicable,22

@@ -1,0 +1,480 @@
+Station Name,Month,Ridership
+11th & Pearl,17-Apr,272
+11th & Pearl,17-Aug,557
+11th & Pearl,17-Dec,139
+11th & Pearl,17-Feb,159
+11th & Pearl,17-Jan,137
+11th & Pearl,17-Jul,598
+11th & Pearl,17-Jun,536
+11th & Pearl,17-Mar,261
+11th & Pearl,17-May,352
+11th & Pearl,17-Nov,203
+11th & Pearl,17-Oct,296
+11th & Pearl,17-Sep,377
+13th & Arapahoe,17-Apr,324
+13th & Arapahoe,17-Aug,566
+13th & Arapahoe,17-Dec,111
+13th & Arapahoe,17-Feb,143
+13th & Arapahoe,17-Jan,119
+13th & Arapahoe,17-Jul,675
+13th & Arapahoe,17-Jun,601
+13th & Arapahoe,17-Mar,222
+13th & Arapahoe,17-May,405
+13th & Arapahoe,17-Nov,192
+13th & Arapahoe,17-Oct,275
+13th & Arapahoe,17-Sep,378
+13th & College,17-Apr,102
+13th & College,17-Aug,213
+13th & College,17-Dec,43
+13th & College,17-Feb,37
+13th & College,17-Jan,35
+13th & College,17-Jul,206
+13th & College,17-Jun,161
+13th & College,17-Mar,87
+13th & College,17-May,119
+13th & College,17-Nov,87
+13th & College,17-Oct,138
+13th & College,17-Sep,164
+13th & Spruce,17-Apr,305
+13th & Spruce,17-Aug,570
+13th & Spruce,17-Dec,162
+13th & Spruce,17-Feb,237
+13th & Spruce,17-Jan,164
+13th & Spruce,17-Jul,548
+13th & Spruce,17-Jun,539
+13th & Spruce,17-Mar,325
+13th & Spruce,17-May,378
+13th & Spruce,17-Nov,201
+13th & Spruce,17-Oct,341
+13th & Spruce,17-Sep,537
+14th & Canyon,17-Apr,255
+14th & Canyon,17-Aug,392
+14th & Canyon,17-Dec,185
+14th & Canyon,17-Feb,140
+14th & Canyon,17-Jan,177
+14th & Canyon,17-Jul,555
+14th & Canyon,17-Jun,420
+14th & Canyon,17-Mar,271
+14th & Canyon,17-May,283
+14th & Canyon,17-Nov,271
+14th & Canyon,17-Oct,317
+14th & Canyon,17-Sep,385
+15th & Pearl,17-Apr,400
+15th & Pearl,17-Aug,676
+15th & Pearl,17-Dec,226
+15th & Pearl,17-Feb,252
+15th & Pearl,17-Jan,154
+15th & Pearl,17-Jul,752
+15th & Pearl,17-Jun,698
+15th & Pearl,17-Mar,413
+15th & Pearl,17-May,475
+15th & Pearl,17-Nov,305
+15th & Pearl,17-Oct,407
+15th & Pearl,17-Sep,567
+19th @ Boulder Creek,17-Apr,283
+19th @ Boulder Creek,17-Aug,440
+19th @ Boulder Creek,17-Dec,186
+19th @ Boulder Creek,17-Feb,136
+19th @ Boulder Creek,17-Jan,110
+19th @ Boulder Creek,17-Jul,515
+19th @ Boulder Creek,17-Jun,496
+19th @ Boulder Creek,17-Mar,265
+19th @ Boulder Creek,17-May,395
+19th @ Boulder Creek,17-Nov,212
+19th @ Boulder Creek,17-Oct,318
+19th @ Boulder Creek,17-Sep,331
+20th & Pearl,17-Apr,264
+20th & Pearl,17-Aug,423
+20th & Pearl,17-Dec,131
+20th & Pearl,17-Feb,167
+20th & Pearl,17-Jan,143
+20th & Pearl,17-Jul,391
+20th & Pearl,17-Jun,386
+20th & Pearl,17-Mar,282
+20th & Pearl,17-May,251
+20th & Pearl,17-Nov,188
+20th & Pearl,17-Oct,239
+20th & Pearl,17-Sep,266
+21st & Arapahoe,17-Apr,371
+21st & Arapahoe,17-Aug,484
+21st & Arapahoe,17-Dec,253
+21st & Arapahoe,17-Feb,225
+21st & Arapahoe,17-Jan,166
+21st & Arapahoe,17-Jul,422
+21st & Arapahoe,17-Jun,401
+21st & Arapahoe,17-Mar,325
+21st & Arapahoe,17-May,434
+21st & Arapahoe,17-Nov,347
+21st & Arapahoe,17-Oct,433
+21st & Arapahoe,17-Sep,394
+26th @ Pearl,17-Apr,199
+26th @ Pearl,17-Aug,431
+26th @ Pearl,17-Dec,126
+26th @ Pearl,17-Feb,185
+26th @ Pearl,17-Jan,138
+26th @ Pearl,17-Jul,463
+26th @ Pearl,17-Jun,431
+26th @ Pearl,17-Mar,270
+26th @ Pearl,17-May,276
+26th @ Pearl,17-Nov,258
+26th @ Pearl,17-Oct,318
+26th @ Pearl,17-Sep,337
+28th & Boulder Creek,17-Apr,191
+28th & Boulder Creek,17-Aug,453
+28th & Boulder Creek,17-Dec,147
+28th & Boulder Creek,17-Feb,119
+28th & Boulder Creek,17-Jan,135
+28th & Boulder Creek,17-Jul,513
+28th & Boulder Creek,17-Jun,415
+28th & Boulder Creek,17-Mar,202
+28th & Boulder Creek,17-May,257
+28th & Boulder Creek,17-Nov,174
+28th & Boulder Creek,17-Oct,298
+28th & Boulder Creek,17-Sep,492
+28th & Mapleton,17-Apr,324
+28th & Mapleton,17-Aug,548
+28th & Mapleton,17-Dec,201
+28th & Mapleton,17-Feb,179
+28th & Mapleton,17-Jan,149
+28th & Mapleton,17-Jul,554
+28th & Mapleton,17-Jun,548
+28th & Mapleton,17-Mar,403
+28th & Mapleton,17-May,322
+28th & Mapleton,17-Nov,405
+28th & Mapleton,17-Oct,453
+28th & Mapleton,17-Sep,469
+29th & Pearl,17-Apr,294
+29th & Pearl,17-Aug,320
+29th & Pearl,17-Dec,184
+29th & Pearl,17-Feb,160
+29th & Pearl,17-Jan,156
+29th & Pearl,17-Jul,331
+29th & Pearl,17-Jun,367
+29th & Pearl,17-Mar,243
+29th & Pearl,17-May,339
+29th & Pearl,17-Nov,168
+29th & Pearl,17-Oct,231
+29th & Pearl,17-Sep,263
+30th & Diagonal Highway,17-Apr,44
+30th & Diagonal Highway,17-Aug,172
+30th & Diagonal Highway,17-Dec,51
+30th & Diagonal Highway,17-Feb,33
+30th & Diagonal Highway,17-Jan,19
+30th & Diagonal Highway,17-Jul,142
+30th & Diagonal Highway,17-Jun,124
+30th & Diagonal Highway,17-Mar,52
+30th & Diagonal Highway,17-May,66
+30th & Diagonal Highway,17-Nov,70
+30th & Diagonal Highway,17-Oct,126
+30th & Diagonal Highway,17-Sep,162
+30th & Glenwood,17-Apr,201
+30th & Glenwood,17-Aug,229
+30th & Glenwood,17-Dec,130
+30th & Glenwood,17-Feb,155
+30th & Glenwood,17-Jan,140
+30th & Glenwood,17-Jul,262
+30th & Glenwood,17-Jun,171
+30th & Glenwood,17-Mar,207
+30th & Glenwood,17-May,136
+30th & Glenwood,17-Nov,160
+30th & Glenwood,17-Oct,209
+30th & Glenwood,17-Sep,252
+30th & Marine,17-Apr,245
+30th & Marine,17-Aug,380
+30th & Marine,17-Dec,167
+30th & Marine,17-Feb,173
+30th & Marine,17-Jan,113
+30th & Marine,17-Jul,381
+30th & Marine,17-Jun,407
+30th & Marine,17-Mar,278
+30th & Marine,17-May,250
+30th & Marine,17-Nov,230
+30th & Marine,17-Oct,241
+30th & Marine,17-Sep,346
+31st & Pearl,17-Apr,204
+31st & Pearl,17-Aug,322
+31st & Pearl,17-Dec,186
+31st & Pearl,17-Feb,143
+31st & Pearl,17-Jan,125
+31st & Pearl,17-Jul,284
+31st & Pearl,17-Jun,344
+31st & Pearl,17-Mar,256
+31st & Pearl,17-May,281
+31st & Pearl,17-Nov,203
+31st & Pearl,17-Oct,202
+31st & Pearl,17-Sep,263
+35th & Colorado,17-Apr,139
+35th & Colorado,17-Aug,319
+35th & Colorado,17-Dec,115
+35th & Colorado,17-Feb,101
+35th & Colorado,17-Jan,76
+35th & Colorado,17-Jul,404
+35th & Colorado,17-Jun,376
+35th & Colorado,17-Mar,99
+35th & Colorado,17-May,178
+35th & Colorado,17-Nov,160
+35th & Colorado,17-Oct,215
+35th & Colorado,17-Sep,275
+38th & Arapahoe,17-Apr,271
+38th & Arapahoe,17-Aug,428
+38th & Arapahoe,17-Dec,191
+38th & Arapahoe,17-Feb,272
+38th & Arapahoe,17-Jan,253
+38th & Arapahoe,17-Jul,521
+38th & Arapahoe,17-Jun,522
+38th & Arapahoe,17-Mar,323
+38th & Arapahoe,17-May,380
+38th & Arapahoe,17-Nov,317
+38th & Arapahoe,17-Oct,318
+38th & Arapahoe,17-Sep,332
+48th & Arapahoe,17-Apr,238
+48th & Arapahoe,17-Aug,419
+48th & Arapahoe,17-Dec,156
+48th & Arapahoe,17-Feb,151
+48th & Arapahoe,17-Jan,147
+48th & Arapahoe,17-Jul,443
+48th & Arapahoe,17-Jun,491
+48th & Arapahoe,17-Mar,277
+48th & Arapahoe,17-May,322
+48th & Arapahoe,17-Nov,192
+48th & Arapahoe,17-Oct,342
+48th & Arapahoe,17-Sep,347
+6th & Canyon,17-Apr,206
+6th & Canyon,17-Aug,290
+6th & Canyon,17-Dec,65
+6th & Canyon,17-Feb,123
+6th & Canyon,17-Jan,124
+6th & Canyon,17-Jul,318
+6th & Canyon,17-Jun,236
+6th & Canyon,17-Mar,202
+6th & Canyon,17-May,195
+6th & Canyon,17-Nov,69
+6th & Canyon,17-Oct,100
+6th & Canyon,17-Sep,181
+9th & Pearl,17-Apr,159
+9th & Pearl,17-Aug,346
+9th & Pearl,17-Dec,103
+9th & Pearl,17-Feb,106
+9th & Pearl,17-Jan,101
+9th & Pearl,17-Jul,362
+9th & Pearl,17-Jun,325
+9th & Pearl,17-Mar,158
+9th & Pearl,17-May,186
+9th & Pearl,17-Nov,144
+9th & Pearl,17-Oct,153
+9th & Pearl,17-Sep,295
+Broadway & Alpine,17-Apr,259
+Broadway & Alpine,17-Aug,264
+Broadway & Alpine,17-Dec,140
+Broadway & Alpine,17-Feb,161
+Broadway & Alpine,17-Jan,180
+Broadway & Alpine,17-Jul,242
+Broadway & Alpine,17-Jun,307
+Broadway & Alpine,17-Mar,250
+Broadway & Alpine,17-May,247
+Broadway & Alpine,17-Nov,182
+Broadway & Alpine,17-Oct,202
+Broadway & Alpine,17-Sep,250
+Broadway & Baseline,17-Apr,80
+Broadway & Baseline,17-Aug,319
+Broadway & Baseline,17-Dec,132
+Broadway & Baseline,17-Feb,97
+Broadway & Baseline,17-Jan,78
+Broadway & Baseline,17-Jul,377
+Broadway & Baseline,17-Jun,285
+Broadway & Baseline,17-Mar,74
+Broadway & Baseline,17-May,210
+Broadway & Baseline,17-Nov,211
+Broadway & Baseline,17-Oct,283
+Broadway & Baseline,17-Sep,325
+Broadway & Euclid,17-Apr,315
+Broadway & Euclid,17-Aug,624
+Broadway & Euclid,17-Dec,181
+Broadway & Euclid,17-Feb,263
+Broadway & Euclid,17-Jan,139
+Broadway & Euclid,17-Jul,406
+Broadway & Euclid,17-Jun,364
+Broadway & Euclid,17-Mar,371
+Broadway & Euclid,17-May,343
+Broadway & Euclid,17-Nov,234
+Broadway & Euclid,17-Oct,356
+Broadway & Euclid,17-Sep,514
+Broadway & Iris,17-Apr,85
+Broadway & Iris,17-Aug,88
+Broadway & Iris,17-Dec,52
+Broadway & Iris,17-Feb,69
+Broadway & Iris,17-Jan,47
+Broadway & Iris,17-Jul,124
+Broadway & Iris,17-Jun,120
+Broadway & Iris,17-Mar,99
+Broadway & Iris,17-May,97
+Broadway & Iris,17-Nov,45
+Broadway & Iris,17-Oct,54
+Broadway & Iris,17-Sep,67
+Broadway & University,17-Apr,164
+Broadway & University,17-Aug,291
+Broadway & University,17-Dec,136
+Broadway & University,17-Feb,91
+Broadway & University,17-Jan,62
+Broadway & University,17-Jul,247
+Broadway & University,17-Jun,196
+Broadway & University,17-Mar,151
+Broadway & University,17-May,144
+Broadway & University,17-Nov,132
+Broadway & University,17-Oct,250
+Broadway & University,17-Sep,241
+Folsom & Colorado,17-Apr,336
+Folsom & Colorado,17-Aug,582
+Folsom & Colorado,17-Dec,315
+Folsom & Colorado,17-Feb,256
+Folsom & Colorado,17-Jan,158
+Folsom & Colorado,17-Jul,569
+Folsom & Colorado,17-Jun,408
+Folsom & Colorado,17-Mar,362
+Folsom & Colorado,17-May,322
+Folsom & Colorado,17-Nov,457
+Folsom & Colorado,17-Oct,650
+Folsom & Colorado,17-Sep,772
+Folsom & Pearl,17-Apr,300
+Folsom & Pearl,17-Aug,383
+Folsom & Pearl,17-Dec,251
+Folsom & Pearl,17-Feb,196
+Folsom & Pearl,17-Jan,157
+Folsom & Pearl,17-Jul,384
+Folsom & Pearl,17-Jun,441
+Folsom & Pearl,17-Mar,303
+Folsom & Pearl,17-May,353
+Folsom & Pearl,17-Nov,267
+Folsom & Pearl,17-Oct,375
+Folsom & Pearl,17-Sep,327
+Gunbarrel North,17-Apr,33
+Gunbarrel North,17-Aug,23
+Gunbarrel North,17-Dec,7
+Gunbarrel North,17-Feb,5
+Gunbarrel North,17-Jan,13
+Gunbarrel North,17-Jul,55
+Gunbarrel North,17-Jun,22
+Gunbarrel North,17-Mar,12
+Gunbarrel North,17-May,54
+Gunbarrel North,17-Nov,43
+Gunbarrel North,17-Sep,10
+Library @ Arapahoe,17-Apr,153
+Library @ Arapahoe,17-Aug,252
+Library @ Arapahoe,17-Dec,103
+Library @ Arapahoe,17-Feb,98
+Library @ Arapahoe,17-Jan,76
+Library @ Arapahoe,17-Jul,294
+Library @ Arapahoe,17-Jun,233
+Library @ Arapahoe,17-Mar,158
+Library @ Arapahoe,17-May,205
+Library @ Arapahoe,17-Nov,123
+Library @ Arapahoe,17-Oct,233
+Library @ Arapahoe,17-Sep,202
+Municipal Building,17-Apr,209
+Municipal Building,17-Aug,391
+Municipal Building,17-Dec,129
+Municipal Building,17-Feb,175
+Municipal Building,17-Jan,158
+Municipal Building,17-Jul,388
+Municipal Building,17-Jun,298
+Municipal Building,17-Mar,254
+Municipal Building,17-May,289
+Municipal Building,17-Nov,106
+Municipal Building,17-Oct,181
+Municipal Building,17-Sep,276
+North Boulder Recreation Center,17-Apr,121
+North Boulder Recreation Center,17-Aug,69
+North Boulder Recreation Center,17-Dec,44
+North Boulder Recreation Center,17-Feb,104
+North Boulder Recreation Center,17-Jan,103
+North Boulder Recreation Center,17-Jul,102
+North Boulder Recreation Center,17-Jun,123
+North Boulder Recreation Center,17-Mar,130
+North Boulder Recreation Center,17-May,114
+North Boulder Recreation Center,17-Nov,50
+North Boulder Recreation Center,17-Oct,67
+North Boulder Recreation Center,17-Sep,74
+Settlers' Park,17-Apr,176
+Settlers' Park,17-Aug,373
+Settlers' Park,17-Dec,94
+Settlers' Park,17-Feb,105
+Settlers' Park,17-Jan,87
+Settlers' Park,17-Jul,359
+Settlers' Park,17-Jun,274
+Settlers' Park,17-Mar,195
+Settlers' Park,17-May,250
+Settlers' Park,17-Nov,140
+Settlers' Park,17-Oct,183
+Settlers' Park,17-Sep,257
+The Village,17-Apr,300
+The Village,17-Aug,474
+The Village,17-Dec,201
+The Village,17-Feb,155
+The Village,17-Jan,139
+The Village,17-Jul,464
+The Village,17-Jun,403
+The Village,17-Mar,230
+The Village,17-May,297
+The Village,17-Nov,239
+The Village,17-Oct,306
+The Village,17-Sep,436
+Twenty Ninth Street North,17-Apr,235
+Twenty Ninth Street North,17-Aug,408
+Twenty Ninth Street North,17-Dec,149
+Twenty Ninth Street North,17-Feb,160
+Twenty Ninth Street North,17-Jan,111
+Twenty Ninth Street North,17-Jul,446
+Twenty Ninth Street North,17-Jun,410
+Twenty Ninth Street North,17-Mar,244
+Twenty Ninth Street North,17-May,333
+Twenty Ninth Street North,17-Nov,227
+Twenty Ninth Street North,17-Oct,290
+Twenty Ninth Street North,17-Sep,327
+Twenty Ninth Street South,17-Apr,124
+Twenty Ninth Street South,17-Aug,249
+Twenty Ninth Street South,17-Dec,105
+Twenty Ninth Street South,17-Feb,69
+Twenty Ninth Street South,17-Jan,73
+Twenty Ninth Street South,17-Jul,266
+Twenty Ninth Street South,17-Jun,225
+Twenty Ninth Street South,17-Mar,115
+Twenty Ninth Street South,17-May,163
+Twenty Ninth Street South,17-Nov,148
+Twenty Ninth Street South,17-Oct,191
+Twenty Ninth Street South,17-Sep,207
+UCAR Center Green,17-Apr,112
+UCAR Center Green,17-Aug,195
+UCAR Center Green,17-Dec,91
+UCAR Center Green,17-Feb,57
+UCAR Center Green,17-Jan,39
+UCAR Center Green,17-Jul,320
+UCAR Center Green,17-Jun,264
+UCAR Center Green,17-Mar,72
+UCAR Center Green,17-May,145
+UCAR Center Green,17-Nov,92
+UCAR Center Green,17-Oct,128
+UCAR Center Green,17-Sep,152
+UCAR Mitchell Lane,17-Apr,179
+UCAR Mitchell Lane,17-Aug,327
+UCAR Mitchell Lane,17-Dec,99
+UCAR Mitchell Lane,17-Feb,87
+UCAR Mitchell Lane,17-Jan,63
+UCAR Mitchell Lane,17-Jul,257
+UCAR Mitchell Lane,17-Jun,311
+UCAR Mitchell Lane,17-Mar,128
+UCAR Mitchell Lane,17-May,192
+UCAR Mitchell Lane,17-Nov,145
+UCAR Mitchell Lane,17-Oct,273
+UCAR Mitchell Lane,17-Sep,302
+Williams Village,17-Apr,243
+Williams Village,17-Aug,336
+Williams Village,17-Dec,113
+Williams Village,17-Feb,121
+Williams Village,17-Jan,99
+Williams Village,17-Jul,637
+Williams Village,17-Jun,439
+Williams Village,17-Mar,241
+Williams Village,17-May,258
+Williams Village,17-Nov,221
+Williams Village,17-Oct,311
+Williams Village,17-Sep,329
