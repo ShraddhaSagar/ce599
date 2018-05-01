@@ -1,480 +1,1227 @@
-Station Name,Month,Ridership
-11th & Pearl,17-Apr,272
-11th & Pearl,17-Aug,557
-11th & Pearl,17-Dec,139
-11th & Pearl,17-Feb,159
-11th & Pearl,17-Jan,137
-11th & Pearl,17-Jul,598
-11th & Pearl,17-Jun,536
-11th & Pearl,17-Mar,261
-11th & Pearl,17-May,352
-11th & Pearl,17-Nov,203
-11th & Pearl,17-Oct,296
-11th & Pearl,17-Sep,377
-13th & Arapahoe,17-Apr,324
-13th & Arapahoe,17-Aug,566
-13th & Arapahoe,17-Dec,111
-13th & Arapahoe,17-Feb,143
-13th & Arapahoe,17-Jan,119
-13th & Arapahoe,17-Jul,675
-13th & Arapahoe,17-Jun,601
-13th & Arapahoe,17-Mar,222
-13th & Arapahoe,17-May,405
-13th & Arapahoe,17-Nov,192
-13th & Arapahoe,17-Oct,275
-13th & Arapahoe,17-Sep,378
-13th & College,17-Apr,102
-13th & College,17-Aug,213
-13th & College,17-Dec,43
-13th & College,17-Feb,37
-13th & College,17-Jan,35
-13th & College,17-Jul,206
-13th & College,17-Jun,161
-13th & College,17-Mar,87
-13th & College,17-May,119
-13th & College,17-Nov,87
-13th & College,17-Oct,138
-13th & College,17-Sep,164
-13th & Spruce,17-Apr,305
-13th & Spruce,17-Aug,570
-13th & Spruce,17-Dec,162
-13th & Spruce,17-Feb,237
-13th & Spruce,17-Jan,164
-13th & Spruce,17-Jul,548
-13th & Spruce,17-Jun,539
-13th & Spruce,17-Mar,325
-13th & Spruce,17-May,378
-13th & Spruce,17-Nov,201
-13th & Spruce,17-Oct,341
-13th & Spruce,17-Sep,537
-14th & Canyon,17-Apr,255
-14th & Canyon,17-Aug,392
-14th & Canyon,17-Dec,185
-14th & Canyon,17-Feb,140
-14th & Canyon,17-Jan,177
-14th & Canyon,17-Jul,555
-14th & Canyon,17-Jun,420
-14th & Canyon,17-Mar,271
-14th & Canyon,17-May,283
-14th & Canyon,17-Nov,271
-14th & Canyon,17-Oct,317
-14th & Canyon,17-Sep,385
-15th & Pearl,17-Apr,400
-15th & Pearl,17-Aug,676
-15th & Pearl,17-Dec,226
-15th & Pearl,17-Feb,252
-15th & Pearl,17-Jan,154
-15th & Pearl,17-Jul,752
-15th & Pearl,17-Jun,698
-15th & Pearl,17-Mar,413
-15th & Pearl,17-May,475
-15th & Pearl,17-Nov,305
-15th & Pearl,17-Oct,407
-15th & Pearl,17-Sep,567
-19th @ Boulder Creek,17-Apr,283
-19th @ Boulder Creek,17-Aug,440
-19th @ Boulder Creek,17-Dec,186
-19th @ Boulder Creek,17-Feb,136
-19th @ Boulder Creek,17-Jan,110
-19th @ Boulder Creek,17-Jul,515
-19th @ Boulder Creek,17-Jun,496
-19th @ Boulder Creek,17-Mar,265
-19th @ Boulder Creek,17-May,395
-19th @ Boulder Creek,17-Nov,212
-19th @ Boulder Creek,17-Oct,318
-19th @ Boulder Creek,17-Sep,331
-20th & Pearl,17-Apr,264
-20th & Pearl,17-Aug,423
-20th & Pearl,17-Dec,131
-20th & Pearl,17-Feb,167
-20th & Pearl,17-Jan,143
-20th & Pearl,17-Jul,391
-20th & Pearl,17-Jun,386
-20th & Pearl,17-Mar,282
-20th & Pearl,17-May,251
-20th & Pearl,17-Nov,188
-20th & Pearl,17-Oct,239
-20th & Pearl,17-Sep,266
-21st & Arapahoe,17-Apr,371
-21st & Arapahoe,17-Aug,484
-21st & Arapahoe,17-Dec,253
-21st & Arapahoe,17-Feb,225
-21st & Arapahoe,17-Jan,166
-21st & Arapahoe,17-Jul,422
-21st & Arapahoe,17-Jun,401
-21st & Arapahoe,17-Mar,325
-21st & Arapahoe,17-May,434
-21st & Arapahoe,17-Nov,347
-21st & Arapahoe,17-Oct,433
-21st & Arapahoe,17-Sep,394
-26th @ Pearl,17-Apr,199
-26th @ Pearl,17-Aug,431
-26th @ Pearl,17-Dec,126
-26th @ Pearl,17-Feb,185
-26th @ Pearl,17-Jan,138
-26th @ Pearl,17-Jul,463
-26th @ Pearl,17-Jun,431
-26th @ Pearl,17-Mar,270
-26th @ Pearl,17-May,276
-26th @ Pearl,17-Nov,258
-26th @ Pearl,17-Oct,318
-26th @ Pearl,17-Sep,337
-28th & Boulder Creek,17-Apr,191
-28th & Boulder Creek,17-Aug,453
-28th & Boulder Creek,17-Dec,147
-28th & Boulder Creek,17-Feb,119
-28th & Boulder Creek,17-Jan,135
-28th & Boulder Creek,17-Jul,513
-28th & Boulder Creek,17-Jun,415
-28th & Boulder Creek,17-Mar,202
-28th & Boulder Creek,17-May,257
-28th & Boulder Creek,17-Nov,174
-28th & Boulder Creek,17-Oct,298
-28th & Boulder Creek,17-Sep,492
-28th & Mapleton,17-Apr,324
-28th & Mapleton,17-Aug,548
-28th & Mapleton,17-Dec,201
-28th & Mapleton,17-Feb,179
-28th & Mapleton,17-Jan,149
-28th & Mapleton,17-Jul,554
-28th & Mapleton,17-Jun,548
-28th & Mapleton,17-Mar,403
-28th & Mapleton,17-May,322
-28th & Mapleton,17-Nov,405
-28th & Mapleton,17-Oct,453
-28th & Mapleton,17-Sep,469
-29th & Pearl,17-Apr,294
-29th & Pearl,17-Aug,320
-29th & Pearl,17-Dec,184
-29th & Pearl,17-Feb,160
-29th & Pearl,17-Jan,156
-29th & Pearl,17-Jul,331
-29th & Pearl,17-Jun,367
-29th & Pearl,17-Mar,243
-29th & Pearl,17-May,339
-29th & Pearl,17-Nov,168
-29th & Pearl,17-Oct,231
-29th & Pearl,17-Sep,263
-30th & Diagonal Highway,17-Apr,44
-30th & Diagonal Highway,17-Aug,172
-30th & Diagonal Highway,17-Dec,51
-30th & Diagonal Highway,17-Feb,33
-30th & Diagonal Highway,17-Jan,19
-30th & Diagonal Highway,17-Jul,142
-30th & Diagonal Highway,17-Jun,124
-30th & Diagonal Highway,17-Mar,52
-30th & Diagonal Highway,17-May,66
-30th & Diagonal Highway,17-Nov,70
-30th & Diagonal Highway,17-Oct,126
-30th & Diagonal Highway,17-Sep,162
-30th & Glenwood,17-Apr,201
-30th & Glenwood,17-Aug,229
-30th & Glenwood,17-Dec,130
-30th & Glenwood,17-Feb,155
-30th & Glenwood,17-Jan,140
-30th & Glenwood,17-Jul,262
-30th & Glenwood,17-Jun,171
-30th & Glenwood,17-Mar,207
-30th & Glenwood,17-May,136
-30th & Glenwood,17-Nov,160
-30th & Glenwood,17-Oct,209
-30th & Glenwood,17-Sep,252
-30th & Marine,17-Apr,245
-30th & Marine,17-Aug,380
-30th & Marine,17-Dec,167
-30th & Marine,17-Feb,173
-30th & Marine,17-Jan,113
-30th & Marine,17-Jul,381
-30th & Marine,17-Jun,407
-30th & Marine,17-Mar,278
-30th & Marine,17-May,250
-30th & Marine,17-Nov,230
-30th & Marine,17-Oct,241
-30th & Marine,17-Sep,346
-31st & Pearl,17-Apr,204
-31st & Pearl,17-Aug,322
-31st & Pearl,17-Dec,186
-31st & Pearl,17-Feb,143
-31st & Pearl,17-Jan,125
-31st & Pearl,17-Jul,284
-31st & Pearl,17-Jun,344
-31st & Pearl,17-Mar,256
-31st & Pearl,17-May,281
-31st & Pearl,17-Nov,203
-31st & Pearl,17-Oct,202
-31st & Pearl,17-Sep,263
-35th & Colorado,17-Apr,139
-35th & Colorado,17-Aug,319
-35th & Colorado,17-Dec,115
-35th & Colorado,17-Feb,101
-35th & Colorado,17-Jan,76
-35th & Colorado,17-Jul,404
-35th & Colorado,17-Jun,376
-35th & Colorado,17-Mar,99
-35th & Colorado,17-May,178
-35th & Colorado,17-Nov,160
-35th & Colorado,17-Oct,215
-35th & Colorado,17-Sep,275
-38th & Arapahoe,17-Apr,271
-38th & Arapahoe,17-Aug,428
-38th & Arapahoe,17-Dec,191
-38th & Arapahoe,17-Feb,272
-38th & Arapahoe,17-Jan,253
-38th & Arapahoe,17-Jul,521
-38th & Arapahoe,17-Jun,522
-38th & Arapahoe,17-Mar,323
-38th & Arapahoe,17-May,380
-38th & Arapahoe,17-Nov,317
-38th & Arapahoe,17-Oct,318
-38th & Arapahoe,17-Sep,332
-48th & Arapahoe,17-Apr,238
-48th & Arapahoe,17-Aug,419
-48th & Arapahoe,17-Dec,156
-48th & Arapahoe,17-Feb,151
-48th & Arapahoe,17-Jan,147
-48th & Arapahoe,17-Jul,443
-48th & Arapahoe,17-Jun,491
-48th & Arapahoe,17-Mar,277
-48th & Arapahoe,17-May,322
-48th & Arapahoe,17-Nov,192
-48th & Arapahoe,17-Oct,342
-48th & Arapahoe,17-Sep,347
-6th & Canyon,17-Apr,206
-6th & Canyon,17-Aug,290
-6th & Canyon,17-Dec,65
-6th & Canyon,17-Feb,123
-6th & Canyon,17-Jan,124
-6th & Canyon,17-Jul,318
-6th & Canyon,17-Jun,236
-6th & Canyon,17-Mar,202
-6th & Canyon,17-May,195
-6th & Canyon,17-Nov,69
-6th & Canyon,17-Oct,100
-6th & Canyon,17-Sep,181
-9th & Pearl,17-Apr,159
-9th & Pearl,17-Aug,346
-9th & Pearl,17-Dec,103
-9th & Pearl,17-Feb,106
-9th & Pearl,17-Jan,101
-9th & Pearl,17-Jul,362
-9th & Pearl,17-Jun,325
-9th & Pearl,17-Mar,158
-9th & Pearl,17-May,186
-9th & Pearl,17-Nov,144
-9th & Pearl,17-Oct,153
-9th & Pearl,17-Sep,295
-Broadway & Alpine,17-Apr,259
-Broadway & Alpine,17-Aug,264
-Broadway & Alpine,17-Dec,140
-Broadway & Alpine,17-Feb,161
-Broadway & Alpine,17-Jan,180
-Broadway & Alpine,17-Jul,242
-Broadway & Alpine,17-Jun,307
-Broadway & Alpine,17-Mar,250
-Broadway & Alpine,17-May,247
-Broadway & Alpine,17-Nov,182
-Broadway & Alpine,17-Oct,202
-Broadway & Alpine,17-Sep,250
-Broadway & Baseline,17-Apr,80
-Broadway & Baseline,17-Aug,319
-Broadway & Baseline,17-Dec,132
-Broadway & Baseline,17-Feb,97
-Broadway & Baseline,17-Jan,78
-Broadway & Baseline,17-Jul,377
-Broadway & Baseline,17-Jun,285
-Broadway & Baseline,17-Mar,74
-Broadway & Baseline,17-May,210
-Broadway & Baseline,17-Nov,211
-Broadway & Baseline,17-Oct,283
-Broadway & Baseline,17-Sep,325
-Broadway & Euclid,17-Apr,315
-Broadway & Euclid,17-Aug,624
-Broadway & Euclid,17-Dec,181
-Broadway & Euclid,17-Feb,263
-Broadway & Euclid,17-Jan,139
-Broadway & Euclid,17-Jul,406
-Broadway & Euclid,17-Jun,364
-Broadway & Euclid,17-Mar,371
-Broadway & Euclid,17-May,343
-Broadway & Euclid,17-Nov,234
-Broadway & Euclid,17-Oct,356
-Broadway & Euclid,17-Sep,514
-Broadway & Iris,17-Apr,85
-Broadway & Iris,17-Aug,88
-Broadway & Iris,17-Dec,52
-Broadway & Iris,17-Feb,69
-Broadway & Iris,17-Jan,47
-Broadway & Iris,17-Jul,124
-Broadway & Iris,17-Jun,120
-Broadway & Iris,17-Mar,99
-Broadway & Iris,17-May,97
-Broadway & Iris,17-Nov,45
-Broadway & Iris,17-Oct,54
-Broadway & Iris,17-Sep,67
-Broadway & University,17-Apr,164
-Broadway & University,17-Aug,291
-Broadway & University,17-Dec,136
-Broadway & University,17-Feb,91
-Broadway & University,17-Jan,62
-Broadway & University,17-Jul,247
-Broadway & University,17-Jun,196
-Broadway & University,17-Mar,151
-Broadway & University,17-May,144
-Broadway & University,17-Nov,132
-Broadway & University,17-Oct,250
-Broadway & University,17-Sep,241
-Folsom & Colorado,17-Apr,336
-Folsom & Colorado,17-Aug,582
-Folsom & Colorado,17-Dec,315
-Folsom & Colorado,17-Feb,256
-Folsom & Colorado,17-Jan,158
-Folsom & Colorado,17-Jul,569
-Folsom & Colorado,17-Jun,408
-Folsom & Colorado,17-Mar,362
-Folsom & Colorado,17-May,322
-Folsom & Colorado,17-Nov,457
-Folsom & Colorado,17-Oct,650
-Folsom & Colorado,17-Sep,772
-Folsom & Pearl,17-Apr,300
-Folsom & Pearl,17-Aug,383
-Folsom & Pearl,17-Dec,251
-Folsom & Pearl,17-Feb,196
-Folsom & Pearl,17-Jan,157
-Folsom & Pearl,17-Jul,384
-Folsom & Pearl,17-Jun,441
-Folsom & Pearl,17-Mar,303
-Folsom & Pearl,17-May,353
-Folsom & Pearl,17-Nov,267
-Folsom & Pearl,17-Oct,375
-Folsom & Pearl,17-Sep,327
-Gunbarrel North,17-Apr,33
-Gunbarrel North,17-Aug,23
-Gunbarrel North,17-Dec,7
-Gunbarrel North,17-Feb,5
-Gunbarrel North,17-Jan,13
-Gunbarrel North,17-Jul,55
-Gunbarrel North,17-Jun,22
-Gunbarrel North,17-Mar,12
-Gunbarrel North,17-May,54
-Gunbarrel North,17-Nov,43
-Gunbarrel North,17-Sep,10
-Library @ Arapahoe,17-Apr,153
-Library @ Arapahoe,17-Aug,252
-Library @ Arapahoe,17-Dec,103
-Library @ Arapahoe,17-Feb,98
-Library @ Arapahoe,17-Jan,76
-Library @ Arapahoe,17-Jul,294
-Library @ Arapahoe,17-Jun,233
-Library @ Arapahoe,17-Mar,158
-Library @ Arapahoe,17-May,205
-Library @ Arapahoe,17-Nov,123
-Library @ Arapahoe,17-Oct,233
-Library @ Arapahoe,17-Sep,202
-Municipal Building,17-Apr,209
-Municipal Building,17-Aug,391
-Municipal Building,17-Dec,129
-Municipal Building,17-Feb,175
-Municipal Building,17-Jan,158
-Municipal Building,17-Jul,388
-Municipal Building,17-Jun,298
-Municipal Building,17-Mar,254
-Municipal Building,17-May,289
-Municipal Building,17-Nov,106
-Municipal Building,17-Oct,181
-Municipal Building,17-Sep,276
-North Boulder Recreation Center,17-Apr,121
-North Boulder Recreation Center,17-Aug,69
-North Boulder Recreation Center,17-Dec,44
-North Boulder Recreation Center,17-Feb,104
-North Boulder Recreation Center,17-Jan,103
-North Boulder Recreation Center,17-Jul,102
-North Boulder Recreation Center,17-Jun,123
-North Boulder Recreation Center,17-Mar,130
-North Boulder Recreation Center,17-May,114
-North Boulder Recreation Center,17-Nov,50
-North Boulder Recreation Center,17-Oct,67
-North Boulder Recreation Center,17-Sep,74
-Settlers' Park,17-Apr,176
-Settlers' Park,17-Aug,373
-Settlers' Park,17-Dec,94
-Settlers' Park,17-Feb,105
-Settlers' Park,17-Jan,87
-Settlers' Park,17-Jul,359
-Settlers' Park,17-Jun,274
-Settlers' Park,17-Mar,195
-Settlers' Park,17-May,250
-Settlers' Park,17-Nov,140
-Settlers' Park,17-Oct,183
-Settlers' Park,17-Sep,257
-The Village,17-Apr,300
-The Village,17-Aug,474
-The Village,17-Dec,201
-The Village,17-Feb,155
-The Village,17-Jan,139
-The Village,17-Jul,464
-The Village,17-Jun,403
-The Village,17-Mar,230
-The Village,17-May,297
-The Village,17-Nov,239
-The Village,17-Oct,306
-The Village,17-Sep,436
-Twenty Ninth Street North,17-Apr,235
-Twenty Ninth Street North,17-Aug,408
-Twenty Ninth Street North,17-Dec,149
-Twenty Ninth Street North,17-Feb,160
-Twenty Ninth Street North,17-Jan,111
-Twenty Ninth Street North,17-Jul,446
-Twenty Ninth Street North,17-Jun,410
-Twenty Ninth Street North,17-Mar,244
-Twenty Ninth Street North,17-May,333
-Twenty Ninth Street North,17-Nov,227
-Twenty Ninth Street North,17-Oct,290
-Twenty Ninth Street North,17-Sep,327
-Twenty Ninth Street South,17-Apr,124
-Twenty Ninth Street South,17-Aug,249
-Twenty Ninth Street South,17-Dec,105
-Twenty Ninth Street South,17-Feb,69
-Twenty Ninth Street South,17-Jan,73
-Twenty Ninth Street South,17-Jul,266
-Twenty Ninth Street South,17-Jun,225
-Twenty Ninth Street South,17-Mar,115
-Twenty Ninth Street South,17-May,163
-Twenty Ninth Street South,17-Nov,148
-Twenty Ninth Street South,17-Oct,191
-Twenty Ninth Street South,17-Sep,207
-UCAR Center Green,17-Apr,112
-UCAR Center Green,17-Aug,195
-UCAR Center Green,17-Dec,91
-UCAR Center Green,17-Feb,57
-UCAR Center Green,17-Jan,39
-UCAR Center Green,17-Jul,320
-UCAR Center Green,17-Jun,264
-UCAR Center Green,17-Mar,72
-UCAR Center Green,17-May,145
-UCAR Center Green,17-Nov,92
-UCAR Center Green,17-Oct,128
-UCAR Center Green,17-Sep,152
-UCAR Mitchell Lane,17-Apr,179
-UCAR Mitchell Lane,17-Aug,327
-UCAR Mitchell Lane,17-Dec,99
-UCAR Mitchell Lane,17-Feb,87
-UCAR Mitchell Lane,17-Jan,63
-UCAR Mitchell Lane,17-Jul,257
-UCAR Mitchell Lane,17-Jun,311
-UCAR Mitchell Lane,17-Mar,128
-UCAR Mitchell Lane,17-May,192
-UCAR Mitchell Lane,17-Nov,145
-UCAR Mitchell Lane,17-Oct,273
-UCAR Mitchell Lane,17-Sep,302
-Williams Village,17-Apr,243
-Williams Village,17-Aug,336
-Williams Village,17-Dec,113
-Williams Village,17-Feb,121
-Williams Village,17-Jan,99
-Williams Village,17-Jul,637
-Williams Village,17-Jun,439
-Williams Village,17-Mar,241
-Williams Village,17-May,258
-Williams Village,17-Nov,221
-Williams Village,17-Oct,311
-Williams Village,17-Sep,329
+State,Station Name,Month,Ridership,Average Rain,Average Temp
+CO,11th & Pearl,Apr,272,2.5,49.1
+CO,11th & Pearl,Aug,557,1.5,70.9
+CO,11th & Pearl,Dec,139,0.7,33.4
+CO,11th & Pearl,Feb,159,0.8,35.8
+CO,11th & Pearl,Jan,137,0.7,32.5
+CO,11th & Pearl,Jul,598,1.6,72.9
+CO,11th & Pearl,Jun,536,2.1,67.1
+CO,11th & Pearl,Mar,261,1.7,41
+CO,11th & Pearl,May,352,3.1,57.9
+CO,11th & Pearl,Nov,203,1.1,40.6
+CO,11th & Pearl,Oct,296,1.2,52.9
+CO,11th & Pearl,Sep,377,1.5,62.2
+CO,13th & Arapahoe,Apr,324,2.5,49.1
+CO,13th & Arapahoe,Aug,566,1.5,70.9
+CO,13th & Arapahoe,Dec,111,0.7,33.4
+CO,13th & Arapahoe,Feb,143,0.8,35.8
+CO,13th & Arapahoe,Jan,119,0.7,32.5
+CO,13th & Arapahoe,Jul,675,1.6,72.9
+CO,13th & Arapahoe,Jun,601,2.1,67.1
+CO,13th & Arapahoe,Mar,222,1.7,41
+CO,13th & Arapahoe,May,405,3.1,57.9
+CO,13th & Arapahoe,Nov,192,1.1,40.6
+CO,13th & Arapahoe,Oct,275,1.2,52.9
+CO,13th & Arapahoe,Sep,378,1.5,62.2
+CO,13th & College,Apr,102,2.5,49.1
+CO,13th & College,Aug,213,1.5,70.9
+CO,13th & College,Dec,43,0.7,33.4
+CO,13th & College,Feb,37,0.8,35.8
+CO,13th & College,Jan,35,0.7,32.5
+CO,13th & College,Jul,206,1.6,72.9
+CO,13th & College,Jun,161,2.1,67.1
+CO,13th & College,Mar,87,1.7,41
+CO,13th & College,May,119,3.1,57.9
+CO,13th & College,Nov,87,1.1,40.6
+CO,13th & College,Oct,138,1.2,52.9
+CO,13th & College,Sep,164,1.5,62.2
+CO,13th & Spruce,Apr,305,2.5,49.1
+CO,13th & Spruce,Aug,570,1.5,70.9
+CO,13th & Spruce,Dec,162,0.7,33.4
+CO,13th & Spruce,Feb,237,0.8,35.8
+CO,13th & Spruce,Jan,164,0.7,32.5
+CO,13th & Spruce,Jul,548,1.6,72.9
+CO,13th & Spruce,Jun,539,2.1,67.1
+CO,13th & Spruce,Mar,325,1.7,41
+CO,13th & Spruce,May,378,3.1,57.9
+CO,13th & Spruce,Nov,201,1.1,40.6
+CO,13th & Spruce,Oct,341,1.2,52.9
+CO,13th & Spruce,Sep,537,1.5,62.2
+CO,14th & Canyon,Apr,255,2.5,49.1
+CO,14th & Canyon,Aug,392,1.5,70.9
+CO,14th & Canyon,Dec,185,0.7,33.4
+CO,14th & Canyon,Feb,140,0.8,35.8
+CO,14th & Canyon,Jan,177,0.7,32.5
+CO,14th & Canyon,Jul,555,1.6,72.9
+CO,14th & Canyon,Jun,420,2.1,67.1
+CO,14th & Canyon,Mar,271,1.7,41
+CO,14th & Canyon,May,283,3.1,57.9
+CO,14th & Canyon,Nov,271,1.1,40.6
+CO,14th & Canyon,Oct,317,1.2,52.9
+CO,14th & Canyon,Sep,385,1.5,62.2
+CO,15th & Pearl,Apr,400,2.5,49.1
+CO,15th & Pearl,Aug,676,1.5,70.9
+CO,15th & Pearl,Dec,226,0.7,33.4
+CO,15th & Pearl,Feb,252,0.8,35.8
+CO,15th & Pearl,Jan,154,0.7,32.5
+CO,15th & Pearl,Jul,752,1.6,72.9
+CO,15th & Pearl,Jun,698,2.1,67.1
+CO,15th & Pearl,Mar,413,1.7,41
+CO,15th & Pearl,May,475,3.1,57.9
+CO,15th & Pearl,Nov,305,1.1,40.6
+CO,15th & Pearl,Oct,407,1.2,52.9
+CO,15th & Pearl,Sep,567,1.5,62.2
+CO,19th @ Boulder Creek,Apr,283,2.5,49.1
+CO,19th @ Boulder Creek,Aug,440,1.5,70.9
+CO,19th @ Boulder Creek,Dec,186,0.7,33.4
+CO,19th @ Boulder Creek,Feb,136,0.8,35.8
+CO,19th @ Boulder Creek,Jan,110,0.7,32.5
+CO,19th @ Boulder Creek,Jul,515,1.6,72.9
+CO,19th @ Boulder Creek,Jun,496,2.1,67.1
+CO,19th @ Boulder Creek,Mar,265,1.7,41
+CO,19th @ Boulder Creek,May,395,3.1,57.9
+CO,19th @ Boulder Creek,Nov,212,1.1,40.6
+CO,19th @ Boulder Creek,Oct,318,1.2,52.9
+CO,19th @ Boulder Creek,Sep,331,1.5,62.2
+CO,20th & Pearl,Apr,264,2.5,49.1
+CO,20th & Pearl,Aug,423,1.5,70.9
+CO,20th & Pearl,Dec,131,0.7,33.4
+CO,20th & Pearl,Feb,167,0.8,35.8
+CO,20th & Pearl,Jan,143,0.7,32.5
+CO,20th & Pearl,Jul,391,1.6,72.9
+CO,20th & Pearl,Jun,386,2.1,67.1
+CO,20th & Pearl,Mar,282,1.7,41
+CO,20th & Pearl,May,251,3.1,57.9
+CO,20th & Pearl,Nov,188,1.1,40.6
+CO,20th & Pearl,Oct,239,1.2,52.9
+CO,20th & Pearl,Sep,266,1.5,62.2
+CO,21st & Arapahoe,Apr,371,2.5,49.1
+CO,21st & Arapahoe,Aug,484,1.5,70.9
+CO,21st & Arapahoe,Dec,253,0.7,33.4
+CO,21st & Arapahoe,Feb,225,0.8,35.8
+CO,21st & Arapahoe,Jan,166,0.7,32.5
+CO,21st & Arapahoe,Jul,422,1.6,72.9
+CO,21st & Arapahoe,Jun,401,2.1,67.1
+CO,21st & Arapahoe,Mar,325,1.7,41
+CO,21st & Arapahoe,May,434,3.1,57.9
+CO,21st & Arapahoe,Nov,347,1.1,40.6
+CO,21st & Arapahoe,Oct,433,1.2,52.9
+CO,21st & Arapahoe,Sep,394,1.5,62.2
+CO,26th @ Pearl,Apr,199,2.5,49.1
+CO,26th @ Pearl,Aug,431,1.5,70.9
+CO,26th @ Pearl,Dec,126,0.7,33.4
+CO,26th @ Pearl,Feb,185,0.8,35.8
+CO,26th @ Pearl,Jan,138,0.7,32.5
+CO,26th @ Pearl,Jul,463,1.6,72.9
+CO,26th @ Pearl,Jun,431,2.1,67.1
+CO,26th @ Pearl,Mar,270,1.7,41
+CO,26th @ Pearl,May,276,3.1,57.9
+CO,26th @ Pearl,Nov,258,1.1,40.6
+CO,26th @ Pearl,Oct,318,1.2,52.9
+CO,26th @ Pearl,Sep,337,1.5,62.2
+CO,28th & Boulder Creek,Apr,191,2.5,49.1
+CO,28th & Boulder Creek,Aug,453,1.5,70.9
+CO,28th & Boulder Creek,Dec,147,0.7,33.4
+CO,28th & Boulder Creek,Feb,119,0.8,35.8
+CO,28th & Boulder Creek,Jan,135,0.7,32.5
+CO,28th & Boulder Creek,Jul,513,1.6,72.9
+CO,28th & Boulder Creek,Jun,415,2.1,67.1
+CO,28th & Boulder Creek,Mar,202,1.7,41
+CO,28th & Boulder Creek,May,257,3.1,57.9
+CO,28th & Boulder Creek,Nov,174,1.1,40.6
+CO,28th & Boulder Creek,Oct,298,1.2,52.9
+CO,28th & Boulder Creek,Sep,492,1.5,62.2
+CO,28th & Mapleton,Apr,324,2.5,49.1
+CO,28th & Mapleton,Aug,548,1.5,70.9
+CO,28th & Mapleton,Dec,201,0.7,33.4
+CO,28th & Mapleton,Feb,179,0.8,35.8
+CO,28th & Mapleton,Jan,149,0.7,32.5
+CO,28th & Mapleton,Jul,554,1.6,72.9
+CO,28th & Mapleton,Jun,548,2.1,67.1
+CO,28th & Mapleton,Mar,403,1.7,41
+CO,28th & Mapleton,May,322,3.1,57.9
+CO,28th & Mapleton,Nov,405,1.1,40.6
+CO,28th & Mapleton,Oct,453,1.2,52.9
+CO,28th & Mapleton,Sep,469,1.5,62.2
+CO,29th & Pearl,Apr,294,2.5,49.1
+CO,29th & Pearl,Aug,320,1.5,70.9
+CO,29th & Pearl,Dec,184,0.7,33.4
+CO,29th & Pearl,Feb,160,0.8,35.8
+CO,29th & Pearl,Jan,156,0.7,32.5
+CO,29th & Pearl,Jul,331,1.6,72.9
+CO,29th & Pearl,Jun,367,2.1,67.1
+CO,29th & Pearl,Mar,243,1.7,41
+CO,29th & Pearl,May,339,3.1,57.9
+CO,29th & Pearl,Nov,168,1.1,40.6
+CO,29th & Pearl,Oct,231,1.2,52.9
+CO,29th & Pearl,Sep,263,1.5,62.2
+CO,30th & Diagonal Highway,Apr,44,2.5,49.1
+CO,30th & Diagonal Highway,Aug,172,1.5,70.9
+CO,30th & Diagonal Highway,Dec,51,0.7,33.4
+CO,30th & Diagonal Highway,Feb,33,0.8,35.8
+CO,30th & Diagonal Highway,Jan,19,0.7,32.5
+CO,30th & Diagonal Highway,Jul,142,1.6,72.9
+CO,30th & Diagonal Highway,Jun,124,2.1,67.1
+CO,30th & Diagonal Highway,Mar,52,1.7,41
+CO,30th & Diagonal Highway,May,66,3.1,57.9
+CO,30th & Diagonal Highway,Nov,70,1.1,40.6
+CO,30th & Diagonal Highway,Oct,126,1.2,52.9
+CO,30th & Diagonal Highway,Sep,162,1.5,62.2
+CO,30th & Glenwood,Apr,201,2.5,49.1
+CO,30th & Glenwood,Aug,229,1.5,70.9
+CO,30th & Glenwood,Dec,130,0.7,33.4
+CO,30th & Glenwood,Feb,155,0.8,35.8
+CO,30th & Glenwood,Jan,140,0.7,32.5
+CO,30th & Glenwood,Jul,262,1.6,72.9
+CO,30th & Glenwood,Jun,171,2.1,67.1
+CO,30th & Glenwood,Mar,207,1.7,41
+CO,30th & Glenwood,May,136,3.1,57.9
+CO,30th & Glenwood,Nov,160,1.1,40.6
+CO,30th & Glenwood,Oct,209,1.2,52.9
+CO,30th & Glenwood,Sep,252,1.5,62.2
+CO,30th & Marine,Apr,245,2.5,49.1
+CO,30th & Marine,Aug,380,1.5,70.9
+CO,30th & Marine,Dec,167,0.7,33.4
+CO,30th & Marine,Feb,173,0.8,35.8
+CO,30th & Marine,Jan,113,0.7,32.5
+CO,30th & Marine,Jul,381,1.6,72.9
+CO,30th & Marine,Jun,407,2.1,67.1
+CO,30th & Marine,Mar,278,1.7,41
+CO,30th & Marine,May,250,3.1,57.9
+CO,30th & Marine,Nov,230,1.1,40.6
+CO,30th & Marine,Oct,241,1.2,52.9
+CO,30th & Marine,Sep,346,1.5,62.2
+CO,31st & Pearl,Apr,204,2.5,49.1
+CO,31st & Pearl,Aug,322,1.5,70.9
+CO,31st & Pearl,Dec,186,0.7,33.4
+CO,31st & Pearl,Feb,143,0.8,35.8
+CO,31st & Pearl,Jan,125,0.7,32.5
+CO,31st & Pearl,Jul,284,1.6,72.9
+CO,31st & Pearl,Jun,344,2.1,67.1
+CO,31st & Pearl,Mar,256,1.7,41
+CO,31st & Pearl,May,281,3.1,57.9
+CO,31st & Pearl,Nov,203,1.1,40.6
+CO,31st & Pearl,Oct,202,1.2,52.9
+CO,31st & Pearl,Sep,263,1.5,62.2
+CO,35th & Colorado,Apr,139,2.5,49.1
+CO,35th & Colorado,Aug,319,1.5,70.9
+CO,35th & Colorado,Dec,115,0.7,33.4
+CO,35th & Colorado,Feb,101,0.8,35.8
+CO,35th & Colorado,Jan,76,0.7,32.5
+CO,35th & Colorado,Jul,404,1.6,72.9
+CO,35th & Colorado,Jun,376,2.1,67.1
+CO,35th & Colorado,Mar,99,1.7,41
+CO,35th & Colorado,May,178,3.1,57.9
+CO,35th & Colorado,Nov,160,1.1,40.6
+CO,35th & Colorado,Oct,215,1.2,52.9
+CO,35th & Colorado,Sep,275,1.5,62.2
+CO,38th & Arapahoe,Apr,271,2.5,49.1
+CO,38th & Arapahoe,Aug,428,1.5,70.9
+CO,38th & Arapahoe,Dec,191,0.7,33.4
+CO,38th & Arapahoe,Feb,272,0.8,35.8
+CO,38th & Arapahoe,Jan,253,0.7,32.5
+CO,38th & Arapahoe,Jul,521,1.6,72.9
+CO,38th & Arapahoe,Jun,522,2.1,67.1
+CO,38th & Arapahoe,Mar,323,1.7,41
+CO,38th & Arapahoe,May,380,3.1,57.9
+CO,38th & Arapahoe,Nov,317,1.1,40.6
+CO,38th & Arapahoe,Oct,318,1.2,52.9
+CO,38th & Arapahoe,Sep,332,1.5,62.2
+CO,48th & Arapahoe,Apr,238,2.5,49.1
+CO,48th & Arapahoe,Aug,419,1.5,70.9
+CO,48th & Arapahoe,Dec,156,0.7,33.4
+CO,48th & Arapahoe,Feb,151,0.8,35.8
+CO,48th & Arapahoe,Jan,147,0.7,32.5
+CO,48th & Arapahoe,Jul,443,1.6,72.9
+CO,48th & Arapahoe,Jun,491,2.1,67.1
+CO,48th & Arapahoe,Mar,277,1.7,41
+CO,48th & Arapahoe,May,322,3.1,57.9
+CO,48th & Arapahoe,Nov,192,1.1,40.6
+CO,48th & Arapahoe,Oct,342,1.2,52.9
+CO,48th & Arapahoe,Sep,347,1.5,62.2
+CO,6th & Canyon,Apr,206,2.5,49.1
+CO,6th & Canyon,Aug,290,1.5,70.9
+CO,6th & Canyon,Dec,65,0.7,33.4
+CO,6th & Canyon,Feb,123,0.8,35.8
+CO,6th & Canyon,Jan,124,0.7,32.5
+CO,6th & Canyon,Jul,318,1.6,72.9
+CO,6th & Canyon,Jun,236,2.1,67.1
+CO,6th & Canyon,Mar,202,1.7,41
+CO,6th & Canyon,May,195,3.1,57.9
+CO,6th & Canyon,Nov,69,1.1,40.6
+CO,6th & Canyon,Oct,100,1.2,52.9
+CO,6th & Canyon,Sep,181,1.5,62.2
+CO,9th & Pearl,Apr,159,2.5,49.1
+CO,9th & Pearl,Aug,346,1.5,70.9
+CO,9th & Pearl,Dec,103,0.7,33.4
+CO,9th & Pearl,Feb,106,0.8,35.8
+CO,9th & Pearl,Jan,101,0.7,32.5
+CO,9th & Pearl,Jul,362,1.6,72.9
+CO,9th & Pearl,Jun,325,2.1,67.1
+CO,9th & Pearl,Mar,158,1.7,41
+CO,9th & Pearl,May,186,3.1,57.9
+CO,9th & Pearl,Nov,144,1.1,40.6
+CO,9th & Pearl,Oct,153,1.2,52.9
+CO,9th & Pearl,Sep,295,1.5,62.2
+CO,Broadway & Alpine,Apr,259,2.5,49.1
+CO,Broadway & Alpine,Aug,264,1.5,70.9
+CO,Broadway & Alpine,Dec,140,0.7,33.4
+CO,Broadway & Alpine,Feb,161,0.8,35.8
+CO,Broadway & Alpine,Jan,180,0.7,32.5
+CO,Broadway & Alpine,Jul,242,1.6,72.9
+CO,Broadway & Alpine,Jun,307,2.1,67.1
+CO,Broadway & Alpine,Mar,250,1.7,41
+CO,Broadway & Alpine,May,247,3.1,57.9
+CO,Broadway & Alpine,Nov,182,1.1,40.6
+CO,Broadway & Alpine,Oct,202,1.2,52.9
+CO,Broadway & Alpine,Sep,250,1.5,62.2
+CO,Broadway & Baseline,Apr,80,2.5,49.1
+CO,Broadway & Baseline,Aug,319,1.5,70.9
+CO,Broadway & Baseline,Dec,132,0.7,33.4
+CO,Broadway & Baseline,Feb,97,0.8,35.8
+CO,Broadway & Baseline,Jan,78,0.7,32.5
+CO,Broadway & Baseline,Jul,377,1.6,72.9
+CO,Broadway & Baseline,Jun,285,2.1,67.1
+CO,Broadway & Baseline,Mar,74,1.7,41
+CO,Broadway & Baseline,May,210,3.1,57.9
+CO,Broadway & Baseline,Nov,211,1.1,40.6
+CO,Broadway & Baseline,Oct,283,1.2,52.9
+CO,Broadway & Baseline,Sep,325,1.5,62.2
+CO,Broadway & Euclid,Apr,315,2.5,49.1
+CO,Broadway & Euclid,Aug,624,1.5,70.9
+CO,Broadway & Euclid,Dec,181,0.7,33.4
+CO,Broadway & Euclid,Feb,263,0.8,35.8
+CO,Broadway & Euclid,Jan,139,0.7,32.5
+CO,Broadway & Euclid,Jul,406,1.6,72.9
+CO,Broadway & Euclid,Jun,364,2.1,67.1
+CO,Broadway & Euclid,Mar,371,1.7,41
+CO,Broadway & Euclid,May,343,3.1,57.9
+CO,Broadway & Euclid,Nov,234,1.1,40.6
+CO,Broadway & Euclid,Oct,356,1.2,52.9
+CO,Broadway & Euclid,Sep,514,1.5,62.2
+CO,Broadway & Iris,Apr,85,2.5,49.1
+CO,Broadway & Iris,Aug,88,1.5,70.9
+CO,Broadway & Iris,Dec,52,0.7,33.4
+CO,Broadway & Iris,Feb,69,0.8,35.8
+CO,Broadway & Iris,Jan,47,0.7,32.5
+CO,Broadway & Iris,Jul,124,1.6,72.9
+CO,Broadway & Iris,Jun,120,2.1,67.1
+CO,Broadway & Iris,Mar,99,1.7,41
+CO,Broadway & Iris,May,97,3.1,57.9
+CO,Broadway & Iris,Nov,45,1.1,40.6
+CO,Broadway & Iris,Oct,54,1.2,52.9
+CO,Broadway & Iris,Sep,67,1.5,62.2
+CO,Broadway & University,Apr,164,2.5,49.1
+CO,Broadway & University,Aug,291,1.5,70.9
+CO,Broadway & University,Dec,136,0.7,33.4
+CO,Broadway & University,Feb,91,0.8,35.8
+CO,Broadway & University,Jan,62,0.7,32.5
+CO,Broadway & University,Jul,247,1.6,72.9
+CO,Broadway & University,Jun,196,2.1,67.1
+CO,Broadway & University,Mar,151,1.7,41
+CO,Broadway & University,May,144,3.1,57.9
+CO,Broadway & University,Nov,132,1.1,40.6
+CO,Broadway & University,Oct,250,1.2,52.9
+CO,Broadway & University,Sep,241,1.5,62.2
+CO,Folsom & Colorado,Apr,336,2.5,49.1
+CO,Folsom & Colorado,Aug,582,1.5,70.9
+CO,Folsom & Colorado,Dec,315,0.7,33.4
+CO,Folsom & Colorado,Feb,256,0.8,35.8
+CO,Folsom & Colorado,Jan,158,0.7,32.5
+CO,Folsom & Colorado,Jul,569,1.6,72.9
+CO,Folsom & Colorado,Jun,408,2.1,67.1
+CO,Folsom & Colorado,Mar,362,1.7,41
+CO,Folsom & Colorado,May,322,3.1,57.9
+CO,Folsom & Colorado,Nov,457,1.1,40.6
+CO,Folsom & Colorado,Oct,650,1.2,52.9
+CO,Folsom & Colorado,Sep,772,1.5,62.2
+CO,Folsom & Pearl,Apr,300,2.5,49.1
+CO,Folsom & Pearl,Aug,383,1.5,70.9
+CO,Folsom & Pearl,Dec,251,0.7,33.4
+CO,Folsom & Pearl,Feb,196,0.8,35.8
+CO,Folsom & Pearl,Jan,157,0.7,32.5
+CO,Folsom & Pearl,Jul,384,1.6,72.9
+CO,Folsom & Pearl,Jun,441,2.1,67.1
+CO,Folsom & Pearl,Mar,303,1.7,41
+CO,Folsom & Pearl,May,353,3.1,57.9
+CO,Folsom & Pearl,Nov,267,1.1,40.6
+CO,Folsom & Pearl,Oct,375,1.2,52.9
+CO,Folsom & Pearl,Sep,327,1.5,62.2
+CO,Gunbarrel North,Apr,33,2.5,49.1
+CO,Gunbarrel North,Aug,23,1.5,70.9
+CO,Gunbarrel North,Dec,7,0.7,33.4
+CO,Gunbarrel North,Feb,5,0.8,35.8
+CO,Gunbarrel North,Jan,13,0.7,32.5
+CO,Gunbarrel North,Jul,55,1.6,72.9
+CO,Gunbarrel North,Jun,22,2.1,67.1
+CO,Gunbarrel North,Mar,12,1.7,41
+CO,Gunbarrel North,May,54,3.1,57.9
+CO,Gunbarrel North,Nov,43,1.1,40.6
+CO,Gunbarrel North,Sep,10,1.5,62.2
+CO,Library @ Arapahoe,Apr,153,2.5,49.1
+CO,Library @ Arapahoe,Aug,252,1.5,70.9
+CO,Library @ Arapahoe,Dec,103,0.7,33.4
+CO,Library @ Arapahoe,Feb,98,0.8,35.8
+CO,Library @ Arapahoe,Jan,76,0.7,32.5
+CO,Library @ Arapahoe,Jul,294,1.6,72.9
+CO,Library @ Arapahoe,Jun,233,2.1,67.1
+CO,Library @ Arapahoe,Mar,158,1.7,41
+CO,Library @ Arapahoe,May,205,3.1,57.9
+CO,Library @ Arapahoe,Nov,123,1.1,40.6
+CO,Library @ Arapahoe,Oct,233,1.2,52.9
+CO,Library @ Arapahoe,Sep,202,1.5,62.2
+CO,Municipal Building,Apr,209,2.5,49.1
+CO,Municipal Building,Aug,391,1.5,70.9
+CO,Municipal Building,Dec,129,0.7,33.4
+CO,Municipal Building,Feb,175,0.8,35.8
+CO,Municipal Building,Jan,158,0.7,32.5
+CO,Municipal Building,Jul,388,1.6,72.9
+CO,Municipal Building,Jun,298,2.1,67.1
+CO,Municipal Building,Mar,254,1.7,41
+CO,Municipal Building,May,289,3.1,57.9
+CO,Municipal Building,Nov,106,1.1,40.6
+CO,Municipal Building,Oct,181,1.2,52.9
+CO,Municipal Building,Sep,276,1.5,62.2
+CO,North Boulder Recreation Center,Apr,121,2.5,49.1
+CO,North Boulder Recreation Center,Aug,69,1.5,70.9
+CO,North Boulder Recreation Center,Dec,44,0.7,33.4
+CO,North Boulder Recreation Center,Feb,104,0.8,35.8
+CO,North Boulder Recreation Center,Jan,103,0.7,32.5
+CO,North Boulder Recreation Center,Jul,102,1.6,72.9
+CO,North Boulder Recreation Center,Jun,123,2.1,67.1
+CO,North Boulder Recreation Center,Mar,130,1.7,41
+CO,North Boulder Recreation Center,May,114,3.1,57.9
+CO,North Boulder Recreation Center,Nov,50,1.1,40.6
+CO,North Boulder Recreation Center,Oct,67,1.2,52.9
+CO,North Boulder Recreation Center,Sep,74,1.5,62.2
+CO,Settlers' Park,Apr,176,2.5,49.1
+CO,Settlers' Park,Aug,373,1.5,70.9
+CO,Settlers' Park,Dec,94,0.7,33.4
+CO,Settlers' Park,Feb,105,0.8,35.8
+CO,Settlers' Park,Jan,87,0.7,32.5
+CO,Settlers' Park,Jul,359,1.6,72.9
+CO,Settlers' Park,Jun,274,2.1,67.1
+CO,Settlers' Park,Mar,195,1.7,41
+CO,Settlers' Park,May,250,3.1,57.9
+CO,Settlers' Park,Nov,140,1.1,40.6
+CO,Settlers' Park,Oct,183,1.2,52.9
+CO,Settlers' Park,Sep,257,1.5,62.2
+CO,The Village,Apr,300,2.5,49.1
+CO,The Village,Aug,474,1.5,70.9
+CO,The Village,Dec,201,0.7,33.4
+CO,The Village,Feb,155,0.8,35.8
+CO,The Village,Jan,139,0.7,32.5
+CO,The Village,Jul,464,1.6,72.9
+CO,The Village,Jun,403,2.1,67.1
+CO,The Village,Mar,230,1.7,41
+CO,The Village,May,297,3.1,57.9
+CO,The Village,Nov,239,1.1,40.6
+CO,The Village,Oct,306,1.2,52.9
+CO,The Village,Sep,436,1.5,62.2
+CO,Twenty Ninth Street North,Apr,235,2.5,49.1
+CO,Twenty Ninth Street North,Aug,408,1.5,70.9
+CO,Twenty Ninth Street North,Dec,149,0.7,33.4
+CO,Twenty Ninth Street North,Feb,160,0.8,35.8
+CO,Twenty Ninth Street North,Jan,111,0.7,32.5
+CO,Twenty Ninth Street North,Jul,446,1.6,72.9
+CO,Twenty Ninth Street North,Jun,410,2.1,67.1
+CO,Twenty Ninth Street North,Mar,244,1.7,41
+CO,Twenty Ninth Street North,May,333,3.1,57.9
+CO,Twenty Ninth Street North,Nov,227,1.1,40.6
+CO,Twenty Ninth Street North,Oct,290,1.2,52.9
+CO,Twenty Ninth Street North,Sep,327,1.5,62.2
+CO,Twenty Ninth Street South,Apr,124,2.5,49.1
+CO,Twenty Ninth Street South,Aug,249,1.5,70.9
+CO,Twenty Ninth Street South,Dec,105,0.7,33.4
+CO,Twenty Ninth Street South,Feb,69,0.8,35.8
+CO,Twenty Ninth Street South,Jan,73,0.7,32.5
+CO,Twenty Ninth Street South,Jul,266,1.6,72.9
+CO,Twenty Ninth Street South,Jun,225,2.1,67.1
+CO,Twenty Ninth Street South,Mar,115,1.7,41
+CO,Twenty Ninth Street South,May,163,3.1,57.9
+CO,Twenty Ninth Street South,Nov,148,1.1,40.6
+CO,Twenty Ninth Street South,Oct,191,1.2,52.9
+CO,Twenty Ninth Street South,Sep,207,1.5,62.2
+CO,UCAR Center Green,Apr,112,2.5,49.1
+CO,UCAR Center Green,Aug,195,1.5,70.9
+CO,UCAR Center Green,Dec,91,0.7,33.4
+CO,UCAR Center Green,Feb,57,0.8,35.8
+CO,UCAR Center Green,Jan,39,0.7,32.5
+CO,UCAR Center Green,Jul,320,1.6,72.9
+CO,UCAR Center Green,Jun,264,2.1,67.1
+CO,UCAR Center Green,Mar,72,1.7,41
+CO,UCAR Center Green,May,145,3.1,57.9
+CO,UCAR Center Green,Nov,92,1.1,40.6
+CO,UCAR Center Green,Oct,128,1.2,52.9
+CO,UCAR Center Green,Sep,152,1.5,62.2
+CO,UCAR Mitchell Lane,Apr,179,2.5,49.1
+CO,UCAR Mitchell Lane,Aug,327,1.5,70.9
+CO,UCAR Mitchell Lane,Dec,99,0.7,33.4
+CO,UCAR Mitchell Lane,Feb,87,0.8,35.8
+CO,UCAR Mitchell Lane,Jan,63,0.7,32.5
+CO,UCAR Mitchell Lane,Jul,257,1.6,72.9
+CO,UCAR Mitchell Lane,Jun,311,2.1,67.1
+CO,UCAR Mitchell Lane,Mar,128,1.7,41
+CO,UCAR Mitchell Lane,May,192,3.1,57.9
+CO,UCAR Mitchell Lane,Nov,145,1.1,40.6
+CO,UCAR Mitchell Lane,Oct,273,1.2,52.9
+CO,UCAR Mitchell Lane,Sep,302,1.5,62.2
+CO,Williams Village,Apr,243,2.5,49.1
+CO,Williams Village,Aug,336,1.5,70.9
+CO,Williams Village,Dec,113,0.7,33.4
+CO,Williams Village,Feb,121,0.8,35.8
+CO,Williams Village,Jan,99,0.7,32.5
+CO,Williams Village,Jul,637,1.6,72.9
+CO,Williams Village,Jun,439,2.1,67.1
+CO,Williams Village,Mar,241,1.7,41
+CO,Williams Village,May,258,3.1,57.9
+CO,Williams Village,Nov,221,1.1,40.6
+CO,Williams Village,Oct,311,1.2,52.9
+CO,Williams Village,Sep,329,1.5,62.2
+TN,100 Manufacturers Rd,Apr,318,4.3,59
+TN,100 Manufacturers Rd,Feb,63,5.1,41.7
+TN,100 Manufacturers Rd,Jan,90,5.2,37.4
+TN,100 Manufacturers Rd,Mar,210,6,50.4
+TN,100 Manufacturers Rd,Mar,3,6,50.4
+TN,100 Manufacturers Rd,May,218,4,66.7
+TN,100 Walnut St,Apr,647,4.3,59
+TN,100 Walnut St,Feb,311,5.1,41.7
+TN,100 Walnut St,Jan,235,5.2,37.4
+TN,100 Walnut St,Jul,2,4.8,78.6
+TN,100 Walnut St,Jun,2,3.7,75.2
+TN,100 Walnut St,Mar,575,6,50.4
+TN,100 Walnut St,May,626,4,66.7
+TN,1216 Broad St,Apr,68,4.3,59
+TN,1216 Broad St,Feb,70,5.1,41.7
+TN,1216 Broad St,Jan,35,5.2,37.4
+TN,1216 Broad St,Mar,141,6,50.4
+TN,1216 Broad St,May,147,4,66.7
+TN,1826 Carter St,Apr,41,4.3,59
+TN,1826 Carter St,Feb,21,5.1,41.7
+TN,1826 Carter St,Jan,12,5.2,37.4
+TN,1826 Carter St,Mar,48,6,50.4
+TN,1826 Carter St,May,66,4,66.7
+TN,200 River St,Apr,886,4.3,59
+TN,200 River St,Feb,402,5.1,41.7
+TN,200 River St,Jan,245,5.2,37.4
+TN,200 River St,Jun,2,3.7,75.2
+TN,200 River St,Mar,786,6,50.4
+TN,200 River St,May,698,4,66.7
+TN,200 River St,Sep,2,4.1,72.3
+TN,215 Broad St,Apr,406,4.3,59
+TN,215 Broad St,Feb,166,5.1,41.7
+TN,215 Broad St,Jan,126,5.2,37.4
+TN,215 Broad St,Mar,291,6,50.4
+TN,215 Broad St,May,306,4,66.7
+TN,301 Manufacturers Rd,Apr,22,4.3,59
+TN,301 Manufacturers Rd,Feb,30,5.1,41.7
+TN,301 Manufacturers Rd,Jan,9,5.2,37.4
+TN,301 Manufacturers Rd,Mar,38,6,50.4
+TN,301 Manufacturers Rd,May,40,4,66.7
+TN,500 Georgia Ave,Apr,65,4.3,59
+TN,500 Georgia Ave,Feb,22,5.1,41.7
+TN,500 Georgia Ave,Jan,11,5.2,37.4
+TN,500 Georgia Ave,Mar,22,6,50.4
+TN,500 Georgia Ave,May,31,4,66.7
+TN,800 E 8th St,Apr,24,4.3,59
+TN,800 E 8th St,Feb,19,5.1,41.7
+TN,800 E 8th St,Jan,5,5.2,37.4
+TN,800 E 8th St,Mar,17,6,50.4
+TN,800 E 8th St,May,29,4,66.7
+TN,Blue Goose Hollow,Apr,219,4.3,59
+TN,Blue Goose Hollow,Feb,87,5.1,41.7
+TN,Blue Goose Hollow,Jan,58,5.2,37.4
+TN,Blue Goose Hollow,Mar,141,6,50.4
+TN,Blue Goose Hollow,May,180,4,66.7
+TN,Broad St & W 10th St,Apr,135,4.3,59
+TN,Broad St & W 10th St,Feb,39,5.1,41.7
+TN,Broad St & W 10th St,Jan,43,5.2,37.4
+TN,Broad St & W 10th St,Mar,112,6,50.4
+TN,Broad St & W 10th St,May,83,4,66.7
+TN,Broad St & W 4th St,Apr,355,4.3,59
+TN,Broad St & W 4th St,Feb,114,5.1,41.7
+TN,Broad St & W 4th St,Jan,69,5.2,37.4
+TN,Broad St & W 4th St,Mar,289,6,50.4
+TN,Broad St & W 4th St,May,213,4,66.7
+TN,Broad St & W 6th St,Apr,112,4.3,59
+TN,Broad St & W 6th St,Feb,37,5.1,41.7
+TN,Broad St & W 6th St,Jan,45,5.2,37.4
+TN,Broad St & W 6th St,Mar,80,6,50.4
+TN,Broad St & W 6th St,May,110,4,66.7
+TN,Broad St & W 8th St,Apr,232,4.3,59
+TN,Broad St & W 8th St,Feb,86,5.1,41.7
+TN,Broad St & W 8th St,Jan,48,5.2,37.4
+TN,Broad St & W 8th St,Mar,145,6,50.4
+TN,Broad St & W 8th St,May,144,4,66.7
+TN,Carter St & W 12th St,Apr,245,4.3,59
+TN,Carter St & W 12th St,Feb,69,5.1,41.7
+TN,Carter St & W 12th St,Jan,44,5.2,37.4
+TN,Carter St & W 12th St,Mar,184,6,50.4
+TN,Carter St & W 12th St,May,86,4,66.7
+TN,Chestnut St & Riverfront Pkwy,Apr,495,4.3,59
+TN,Chestnut St & Riverfront Pkwy,Feb,141,5.1,41.7
+TN,Chestnut St & Riverfront Pkwy,Jan,122,5.2,37.4
+TN,Chestnut St & Riverfront Pkwy,Mar,274,6,50.4
+TN,Chestnut St & Riverfront Pkwy,May,262,4,66.7
+TN,Curtain Pole,Apr,300,4.3,59
+TN,Curtain Pole,Feb,129,5.1,41.7
+TN,Curtain Pole,Jan,52,5.2,37.4
+TN,Curtain Pole,Mar,203,6,50.4
+TN,Curtain Pole,May,388,4,66.7
+TN,Douglas St,Apr,63,4.3,59
+TN,Douglas St,Feb,50,5.1,41.7
+TN,Douglas St,Jan,41,5.2,37.4
+TN,Douglas St,Mar,52,6,50.4
+TN,Douglas St,May,49,4,66.7
+TN,E 5th St & Collins St,Apr,7,4.3,59
+TN,E 5th St & Collins St,Feb,10,5.1,41.7
+TN,E 5th St & Collins St,Jan,2,5.2,37.4
+TN,E 5th St & Collins St,Mar,6,6,50.4
+TN,E 5th St & Collins St,May,16,4,66.7
+TN,E Main St & Rossville Ave,Apr,106,4.3,59
+TN,E Main St & Rossville Ave,Feb,78,5.1,41.7
+TN,E Main St & Rossville Ave,Jan,66,5.2,37.4
+TN,E Main St & Rossville Ave,Jun,1,3.7,75.2
+TN,E Main St & Rossville Ave,Mar,101,6,50.4
+TN,E Main St & Rossville Ave,May,129,4,66.7
+TN,High St & E 2nd St,Apr,267,4.3,59
+TN,High St & E 2nd St,Feb,122,5.1,41.7
+TN,High St & E 2nd St,Jan,87,5.2,37.4
+TN,High St & E 2nd St,Jan,2,5.2,37.4
+TN,High St & E 2nd St,Mar,232,6,50.4
+TN,High St & E 2nd St,May,313,4,66.7
+TN,Hubert Fry Center Tennessee Riverpark,Apr,460,4.3,59
+TN,Hubert Fry Center Tennessee Riverpark,Feb,171,5.1,41.7
+TN,Hubert Fry Center Tennessee Riverpark,Jan,136,5.2,37.4
+TN,Hubert Fry Center Tennessee Riverpark,Jun,2,3.7,75.2
+TN,Hubert Fry Center Tennessee Riverpark,Mar,301,6,50.4
+TN,Hubert Fry Center Tennessee Riverpark,May,452,4,66.7
+TN,ML King Blvd & Lindsay St,Apr,74,4.3,59
+TN,ML King Blvd & Lindsay St,Feb,27,5.1,41.7
+TN,ML King Blvd & Lindsay St,Jan,24,5.2,37.4
+TN,ML King Blvd & Lindsay St,Mar,50,6,50.4
+TN,ML King Blvd & Lindsay St,May,62,4,66.7
+TN,MLK and University St,Apr,45,4.3,59
+TN,MLK and University St,Feb,15,5.1,41.7
+TN,MLK and University St,Jan,22,5.2,37.4
+TN,MLK and University St,Mar,28,6,50.4
+TN,MLK and University St,May,17,4,66.7
+TN,Market & E 4th Street,Apr,222,4.3,59
+TN,Market & E 4th Street,Feb,92,5.1,41.7
+TN,Market & E 4th Street,Jan,56,5.2,37.4
+TN,Market & E 4th Street,Mar,187,6,50.4
+TN,Market & E 4th Street,May,176,4,66.7
+TN,Market St & Cowart St,Apr,115,4.3,59
+TN,Market St & Cowart St,Feb,75,5.1,41.7
+TN,Market St & Cowart St,Jan,53,5.2,37.4
+TN,Market St & Cowart St,Mar,74,6,50.4
+TN,Market St & Cowart St,May,119,4,66.7
+TN,Market St & E 14th St,Apr,262,4.3,59
+TN,Market St & E 14th St,Feb,75,5.1,41.7
+TN,Market St & E 14th St,Jan,66,5.2,37.4
+TN,Market St & E 14th St,Jun,1,3.7,75.2
+TN,Market St & E 14th St,Mar,160,6,50.4
+TN,Market St & E 14th St,May,221,4,66.7
+TN,Market St & ML King Blvd,Apr,111,4.3,59
+TN,Market St & ML King Blvd,Feb,50,5.1,41.7
+TN,Market St & ML King Blvd,Jan,49,5.2,37.4
+TN,Market St & ML King Blvd,Jun,1,3.7,75.2
+TN,Market St & ML King Blvd,Mar,98,6,50.4
+TN,Market St & ML King Blvd,May,92,4,66.7
+TN,Market St & W 12th St,Apr,59,4.3,59
+TN,Market St & W 12th St,Feb,43,5.1,41.7
+TN,Market St & W 12th St,Jan,41,5.2,37.4
+TN,Market St & W 12th St,Mar,88,6,50.4
+TN,Market St & W 12th St,May,81,4,66.7
+TN,McCallie Ave & Lindsay St,Apr,24,4.3,59
+TN,McCallie Ave & Lindsay St,Feb,14,5.1,41.7
+TN,McCallie Ave & Lindsay St,Jan,9,5.2,37.4
+TN,McCallie Ave & Lindsay St,Mar,29,6,50.4
+TN,McCallie Ave & Lindsay St,May,26,4,66.7
+TN,Middle St,Apr,243,4.3,59
+TN,Middle St,Feb,141,5.1,41.7
+TN,Middle St,Jan,90,5.2,37.4
+TN,Middle St,Mar,238,6,50.4
+TN,Middle St,May,241,4,66.7
+TN,Oak St & Houston St,Apr,19,4.3,59
+TN,Oak St & Houston St,Feb,12,5.1,41.7
+TN,Oak St & Houston St,Jan,13,5.2,37.4
+TN,Oak St & Houston St,Mar,17,6,50.4
+TN,Oak St & Houston St,May,26,4,66.7
+TN,Oak St & University Greenway,Apr,34,4.3,59
+TN,Oak St & University Greenway,Feb,28,5.1,41.7
+TN,Oak St & University Greenway,Jan,17,5.2,37.4
+TN,Oak St & University Greenway,Mar,35,6,50.4
+TN,Oak St & University Greenway,May,21,4,66.7
+TN,Pine St. & W. 6th St.,Apr,75,4.3,59
+TN,Pine St. & W. 6th St.,Feb,61,5.1,41.7
+TN,Pine St. & W. 6th St.,Jan,32,5.2,37.4
+TN,Pine St. & W. 6th St.,Mar,53,6,50.4
+TN,Pine St. & W. 6th St.,May,101,4,66.7
+TN,Power Alley & Riverfront Pkwy,Apr,619,4.3,59
+TN,Power Alley & Riverfront Pkwy,Apr,2,4.3,59
+TN,Power Alley & Riverfront Pkwy,Feb,154,5.1,41.7
+TN,Power Alley & Riverfront Pkwy,Jan,98,5.2,37.4
+TN,Power Alley & Riverfront Pkwy,Mar,327,6,50.4
+TN,Power Alley & Riverfront Pkwy,May,392,4,66.7
+TN,SpringHill Suites,Apr,223,4.3,59
+TN,SpringHill Suites,Feb,86,5.1,41.7
+TN,SpringHill Suites,Jan,48,5.2,37.4
+TN,SpringHill Suites,Mar,104,6,50.4
+TN,SpringHill Suites,May,156,4,66.7
+TN,W Main St & Cowart St,Apr,131,4.3,59
+TN,W Main St & Cowart St,Feb,50,5.1,41.7
+TN,W Main St & Cowart St,Jan,42,5.2,37.4
+TN,W Main St & Cowart St,Mar,67,6,50.4
+TN,W Main St & Cowart St,May,82,4,66.7
+OH,3rd St & Gay St,Apr,185,3.8,52
+OH,3rd St & Gay St,Aug,205,3.6,72.3
+OH,3rd St & Gay St,Dec,34,2.7,32.5
+OH,3rd St & Gay St,Feb,79,2.1,30.9
+OH,3rd St & Gay St,Jan,40,2.8,27.3
+OH,3rd St & Gay St,Jul,320,3.9,74.3
+OH,3rd St & Gay St,Jun,233,3.9,70.7
+OH,3rd St & Gay St,Mar,65,3.4,41.9
+OH,3rd St & Gay St,May,176,4.1,62.1
+OH,3rd St & Gay St,Nov,96,2.8,43.7
+OH,3rd St & Gay St,Oct,194,2.2,54.7
+OH,3rd St & Gay St,Sep,181,2.7,66.2
+OH,3rd St & Sycamore St,Apr,133,3.8,52
+OH,3rd St & Sycamore St,Aug,160,3.6,72.3
+OH,3rd St & Sycamore St,Dec,5,2.7,32.5
+OH,3rd St & Sycamore St,Feb,46,2.1,30.9
+OH,3rd St & Sycamore St,Jan,15,2.8,27.3
+OH,3rd St & Sycamore St,Jul,227,3.9,74.3
+OH,3rd St & Sycamore St,Jun,161,3.9,70.7
+OH,3rd St & Sycamore St,Mar,58,3.4,41.9
+OH,3rd St & Sycamore St,May,134,4.1,62.1
+OH,3rd St & Sycamore St,Nov,25,2.8,43.7
+OH,3rd St & Sycamore St,Oct,78,2.2,54.7
+OH,3rd St & Sycamore St,Sep,131,2.7,66.2
+OH,4th St & 1st Ave - Jeffrey Park,Apr,88,3.8,52
+OH,4th St & 1st Ave - Jeffrey Park,Aug,120,3.6,72.3
+OH,4th St & 1st Ave - Jeffrey Park,Dec,18,2.7,32.5
+OH,4th St & 1st Ave - Jeffrey Park,Feb,42,2.1,30.9
+OH,4th St & 1st Ave - Jeffrey Park,Jan,30,2.8,27.3
+OH,4th St & 1st Ave - Jeffrey Park,Jul,111,3.9,74.3
+OH,4th St & 1st Ave - Jeffrey Park,Jun,96,3.9,70.7
+OH,4th St & 1st Ave - Jeffrey Park,Mar,34,3.4,41.9
+OH,4th St & 1st Ave - Jeffrey Park,May,76,4.1,62.1
+OH,4th St & 1st Ave - Jeffrey Park,Nov,48,2.8,43.7
+OH,4th St & 1st Ave - Jeffrey Park,Oct,77,2.2,54.7
+OH,4th St & 1st Ave - Jeffrey Park,Sep,128,2.7,66.2
+OH,4th St & Rich St,Apr,60,3.8,52
+OH,4th St & Rich St,Aug,105,3.6,72.3
+OH,4th St & Rich St,Dec,12,2.7,32.5
+OH,4th St & Rich St,Feb,32,2.1,30.9
+OH,4th St & Rich St,Jan,11,2.8,27.3
+OH,4th St & Rich St,Jul,137,3.9,74.3
+OH,4th St & Rich St,Jun,119,3.9,70.7
+OH,4th St & Rich St,Mar,35,3.4,41.9
+OH,4th St & Rich St,May,58,4.1,62.1
+OH,4th St & Rich St,Nov,33,2.8,43.7
+OH,4th St & Rich St,Oct,67,2.2,54.7
+OH,4th St & Rich St,Sep,107,2.7,66.2
+OH,Bank St & Frankfort St,Apr,25,3.8,52
+OH,Bank St & Frankfort St,Aug,58,3.6,72.3
+OH,Bank St & Frankfort St,Dec,7,2.7,32.5
+OH,Bank St & Frankfort St,Feb,10,2.1,30.9
+OH,Bank St & Frankfort St,Jan,1,2.8,27.3
+OH,Bank St & Frankfort St,Jul,80,3.9,74.3
+OH,Bank St & Frankfort St,Jun,45,3.9,70.7
+OH,Bank St & Frankfort St,Mar,7,3.4,41.9
+OH,Bank St & Frankfort St,May,28,4.1,62.1
+OH,Bank St & Frankfort St,Nov,19,2.8,43.7
+OH,Bank St & Frankfort St,Oct,24,2.2,54.7
+OH,Bank St & Frankfort St,Sep,57,2.7,66.2
+OH,Bicentennial Park,Apr,745,3.8,52
+OH,Bicentennial Park,Aug,799,3.6,72.3
+OH,Bicentennial Park,Dec,43,2.7,32.5
+OH,Bicentennial Park,Feb,186,2.1,30.9
+OH,Bicentennial Park,Jan,55,2.8,27.3
+OH,Bicentennial Park,Jul,906,3.9,74.3
+OH,Bicentennial Park,Jun,888,3.9,70.7
+OH,Bicentennial Park,Mar,237,3.4,41.9
+OH,Bicentennial Park,May,752,4.1,62.1
+OH,Bicentennial Park,Nov,90,2.8,43.7
+OH,Bicentennial Park,Oct,348,2.2,54.7
+OH,Bicentennial Park,Sep,594,2.7,66.2
+OH,COSI,Apr,257,3.8,52
+OH,COSI,Aug,264,3.6,72.3
+OH,COSI,Dec,19,2.7,32.5
+OH,COSI,Feb,110,2.1,30.9
+OH,COSI,Jan,43,2.8,27.3
+OH,COSI,Jul,250,3.9,74.3
+OH,COSI,Jun,304,3.9,70.7
+OH,COSI,Mar,127,3.4,41.9
+OH,COSI,May,209,4.1,62.1
+OH,COSI,Nov,50,2.8,43.7
+OH,COSI,Oct,132,2.2,54.7
+OH,COSI,Sep,218,2.7,66.2
+OH,Champion Ave & Main St,Apr,15,3.8,52
+OH,Champion Ave & Main St,Aug,11,3.6,72.3
+OH,Champion Ave & Main St,Dec,1,2.7,32.5
+OH,Champion Ave & Main St,Feb,2,2.1,30.9
+OH,Champion Ave & Main St,Jan,4,2.8,27.3
+OH,Champion Ave & Main St,Jul,12,3.9,74.3
+OH,Champion Ave & Main St,Jun,13,3.9,70.7
+OH,Champion Ave & Main St,Mar,4,3.4,41.9
+OH,Champion Ave & Main St,May,15,4.1,62.1
+OH,Champion Ave & Main St,Nov,4,2.8,43.7
+OH,Champion Ave & Main St,Oct,7,2.2,54.7
+OH,Champion Ave & Main St,Sep,8,2.7,66.2
+OH,City Hall,Apr,153,3.8,52
+OH,City Hall,Aug,222,3.6,72.3
+OH,City Hall,Dec,51,2.7,32.5
+OH,City Hall,Feb,56,2.1,30.9
+OH,City Hall,Jan,28,2.8,27.3
+OH,City Hall,Jul,208,3.9,74.3
+OH,City Hall,Jun,254,3.9,70.7
+OH,City Hall,Mar,65,3.4,41.9
+OH,City Hall,May,207,4.1,62.1
+OH,City Hall,Nov,75,2.8,43.7
+OH,City Hall,Oct,132,2.2,54.7
+OH,City Hall,Sep,199,2.7,66.2
+OH,Cleveland Ave & Mt Vernon Ave,Apr,40,3.8,52
+OH,Cleveland Ave & Mt Vernon Ave,Aug,50,3.6,72.3
+OH,Cleveland Ave & Mt Vernon Ave,Dec,12,2.7,32.5
+OH,Cleveland Ave & Mt Vernon Ave,Feb,30,2.1,30.9
+OH,Cleveland Ave & Mt Vernon Ave,Jan,18,2.8,27.3
+OH,Cleveland Ave & Mt Vernon Ave,Jul,59,3.9,74.3
+OH,Cleveland Ave & Mt Vernon Ave,Jun,59,3.9,70.7
+OH,Cleveland Ave & Mt Vernon Ave,Mar,35,3.4,41.9
+OH,Cleveland Ave & Mt Vernon Ave,May,48,4.1,62.1
+OH,Cleveland Ave & Mt Vernon Ave,Nov,35,2.8,43.7
+OH,Cleveland Ave & Mt Vernon Ave,Oct,63,2.2,54.7
+OH,Cleveland Ave & Mt Vernon Ave,Sep,51,2.7,66.2
+OH,Columbus College of Art & Design,Apr,44,3.8,52
+OH,Columbus College of Art & Design,Aug,60,3.6,72.3
+OH,Columbus College of Art & Design,Dec,25,2.7,32.5
+OH,Columbus College of Art & Design,Feb,21,2.1,30.9
+OH,Columbus College of Art & Design,Jan,16,2.8,27.3
+OH,Columbus College of Art & Design,Jul,87,3.9,74.3
+OH,Columbus College of Art & Design,Jun,58,3.9,70.7
+OH,Columbus College of Art & Design,Mar,10,3.4,41.9
+OH,Columbus College of Art & Design,May,39,4.1,62.1
+OH,Columbus College of Art & Design,Nov,44,2.8,43.7
+OH,Columbus College of Art & Design,Oct,91,2.2,54.7
+OH,Columbus College of Art & Design,Sep,65,2.7,66.2
+OH,Columbus Commons - Rich St,Apr,115,3.8,52
+OH,Columbus Commons - Rich St,Aug,152,3.6,72.3
+OH,Columbus Commons - Rich St,Dec,30,2.7,32.5
+OH,Columbus Commons - Rich St,Feb,73,2.1,30.9
+OH,Columbus Commons - Rich St,Jan,27,2.8,27.3
+OH,Columbus Commons - Rich St,Jul,202,3.9,74.3
+OH,Columbus Commons - Rich St,Jun,171,3.9,70.7
+OH,Columbus Commons - Rich St,Mar,60,3.4,41.9
+OH,Columbus Commons - Rich St,May,145,4.1,62.1
+OH,Columbus Commons - Rich St,Nov,60,2.8,43.7
+OH,Columbus Commons - Rich St,Oct,114,2.2,54.7
+OH,Columbus Commons - Rich St,Sep,139,2.7,66.2
+OH,Columbus Museum of Art,Apr,33,3.8,52
+OH,Columbus Museum of Art,Aug,53,3.6,72.3
+OH,Columbus Museum of Art,Dec,7,2.7,32.5
+OH,Columbus Museum of Art,Feb,11,2.1,30.9
+OH,Columbus Museum of Art,Jul,50,3.9,74.3
+OH,Columbus Museum of Art,Jun,29,3.9,70.7
+OH,Columbus Museum of Art,Mar,12,3.4,41.9
+OH,Columbus Museum of Art,May,22,4.1,62.1
+OH,Columbus Museum of Art,Nov,13,2.8,43.7
+OH,Columbus Museum of Art,Oct,34,2.2,54.7
+OH,Columbus Museum of Art,Sep,25,2.7,66.2
+OH,Convention Center,Apr,126,3.8,52
+OH,Convention Center,Aug,141,3.6,72.3
+OH,Convention Center,Dec,18,2.7,32.5
+OH,Convention Center,Feb,70,2.1,30.9
+OH,Convention Center,Jan,62,2.8,27.3
+OH,Convention Center,Jul,300,3.9,74.3
+OH,Convention Center,Jun,225,3.9,70.7
+OH,Convention Center,Mar,94,3.4,41.9
+OH,Convention Center,May,153,4.1,62.1
+OH,Convention Center,Nov,54,2.8,43.7
+OH,Convention Center,Oct,91,2.2,54.7
+OH,Convention Center,Sep,161,2.7,66.2
+OH,Dorrian Commons - Mound St,Apr,72,3.8,52
+OH,Dorrian Commons - Mound St,Aug,88,3.6,72.3
+OH,Dorrian Commons - Mound St,Dec,8,2.7,32.5
+OH,Dorrian Commons - Mound St,Feb,13,2.1,30.9
+OH,Dorrian Commons - Mound St,Jan,7,2.8,27.3
+OH,Dorrian Commons - Mound St,Jul,92,3.9,74.3
+OH,Dorrian Commons - Mound St,Jun,85,3.9,70.7
+OH,Dorrian Commons - Mound St,Mar,27,3.4,41.9
+OH,Dorrian Commons - Mound St,May,69,4.1,62.1
+OH,Dorrian Commons - Mound St,Nov,18,2.8,43.7
+OH,Dorrian Commons - Mound St,Oct,43,2.2,54.7
+OH,Dorrian Commons - Mound St,Sep,67,2.7,66.2
+OH,Front St & Beck St,Apr,78,3.8,52
+OH,Front St & Beck St,Aug,85,3.6,72.3
+OH,Front St & Beck St,Dec,10,2.7,32.5
+OH,Front St & Beck St,Feb,41,2.1,30.9
+OH,Front St & Beck St,Jan,20,2.8,27.3
+OH,Front St & Beck St,Jul,173,3.9,74.3
+OH,Front St & Beck St,Jun,122,3.9,70.7
+OH,Front St & Beck St,Mar,40,3.4,41.9
+OH,Front St & Beck St,May,119,4.1,62.1
+OH,Front St & Beck St,Nov,20,2.8,43.7
+OH,Front St & Beck St,Oct,46,2.2,54.7
+OH,Front St & Beck St,Sep,89,2.7,66.2
+OH,Grant Ave & Main St,Apr,41,3.8,52
+OH,Grant Ave & Main St,Aug,46,3.6,72.3
+OH,Grant Ave & Main St,Dec,12,2.7,32.5
+OH,Grant Ave & Main St,Feb,45,2.1,30.9
+OH,Grant Ave & Main St,Jan,17,2.8,27.3
+OH,Grant Ave & Main St,Jul,37,3.9,74.3
+OH,Grant Ave & Main St,Jun,62,3.9,70.7
+OH,Grant Ave & Main St,Mar,19,3.4,41.9
+OH,Grant Ave & Main St,May,60,4.1,62.1
+OH,Grant Ave & Main St,Nov,17,2.8,43.7
+OH,Grant Ave & Main St,Oct,25,2.2,54.7
+OH,Grant Ave & Main St,Sep,35,2.7,66.2
+OH,High St & 11th Ave,Apr,101,3.8,52
+OH,High St & 11th Ave,Aug,133,3.6,72.3
+OH,High St & 11th Ave,Dec,12,2.7,32.5
+OH,High St & 11th Ave,Feb,31,2.1,30.9
+OH,High St & 11th Ave,Jan,27,2.8,27.3
+OH,High St & 11th Ave,Jul,151,3.9,74.3
+OH,High St & 11th Ave,Jun,146,3.9,70.7
+OH,High St & 11th Ave,Mar,45,3.4,41.9
+OH,High St & 11th Ave,May,118,4.1,62.1
+OH,High St & 11th Ave,Nov,48,2.8,43.7
+OH,High St & 11th Ave,Oct,86,2.2,54.7
+OH,High St & 11th Ave,Sep,165,2.7,66.2
+OH,High St & 17th Ave,Apr,79,3.8,52
+OH,High St & 17th Ave,Aug,100,3.6,72.3
+OH,High St & 17th Ave,Dec,10,2.7,32.5
+OH,High St & 17th Ave,Feb,30,2.1,30.9
+OH,High St & 17th Ave,Jan,13,2.8,27.3
+OH,High St & 17th Ave,Jul,145,3.9,74.3
+OH,High St & 17th Ave,Jun,94,3.9,70.7
+OH,High St & 17th Ave,Mar,20,3.4,41.9
+OH,High St & 17th Ave,May,68,4.1,62.1
+OH,High St & 17th Ave,Nov,27,2.8,43.7
+OH,High St & 17th Ave,Oct,62,2.2,54.7
+OH,High St & 17th Ave,Sep,134,2.7,66.2
+OH,High St & 2nd Ave,Apr,112,3.8,52
+OH,High St & 2nd Ave,Aug,185,3.6,72.3
+OH,High St & 2nd Ave,Dec,13,2.7,32.5
+OH,High St & 2nd Ave,Feb,60,2.1,30.9
+OH,High St & 2nd Ave,Jan,13,2.8,27.3
+OH,High St & 2nd Ave,Jul,210,3.9,74.3
+OH,High St & 2nd Ave,Jun,189,3.9,70.7
+OH,High St & 2nd Ave,Mar,70,3.4,41.9
+OH,High St & 2nd Ave,May,111,4.1,62.1
+OH,High St & 2nd Ave,Nov,21,2.8,43.7
+OH,High St & 2nd Ave,Oct,91,2.2,54.7
+OH,High St & 2nd Ave,Sep,189,2.7,66.2
+OH,High St & 4th Ave,Apr,96,3.8,52
+OH,High St & 4th Ave,Aug,170,3.6,72.3
+OH,High St & 4th Ave,Dec,21,2.7,32.5
+OH,High St & 4th Ave,Feb,44,2.1,30.9
+OH,High St & 4th Ave,Jan,24,2.8,27.3
+OH,High St & 4th Ave,Jul,196,3.9,74.3
+OH,High St & 4th Ave,Jun,200,3.9,70.7
+OH,High St & 4th Ave,Mar,25,3.4,41.9
+OH,High St & 4th Ave,May,144,4.1,62.1
+OH,High St & 4th Ave,Nov,33,2.8,43.7
+OH,High St & 4th Ave,Oct,86,2.2,54.7
+OH,High St & 4th Ave,Sep,133,2.7,66.2
+OH,High St & Broad St,Apr,201,3.8,52
+OH,High St & Broad St,Aug,278,3.6,72.3
+OH,High St & Broad St,Dec,37,2.7,32.5
+OH,High St & Broad St,Feb,95,2.1,30.9
+OH,High St & Broad St,Jan,63,2.8,27.3
+OH,High St & Broad St,Jul,385,3.9,74.3
+OH,High St & Broad St,Jun,311,3.9,70.7
+OH,High St & Broad St,Mar,98,3.4,41.9
+OH,High St & Broad St,May,262,4.1,62.1
+OH,High St & Broad St,Nov,63,2.8,43.7
+OH,High St & Broad St,Oct,170,2.2,54.7
+OH,High St & Broad St,Sep,204,2.7,66.2
+OH,High St & King Ave,Apr,61,3.8,52
+OH,High St & King Ave,Aug,148,3.6,72.3
+OH,High St & King Ave,Dec,34,2.7,32.5
+OH,High St & King Ave,Feb,46,2.1,30.9
+OH,High St & King Ave,Jan,28,2.8,27.3
+OH,High St & King Ave,Jul,137,3.9,74.3
+OH,High St & King Ave,Jun,82,3.9,70.7
+OH,High St & King Ave,Mar,29,3.4,41.9
+OH,High St & King Ave,May,47,4.1,62.1
+OH,High St & King Ave,Nov,70,2.8,43.7
+OH,High St & King Ave,Oct,126,2.2,54.7
+OH,High St & King Ave,Sep,152,2.7,66.2
+OH,High St & Spring St,Apr,86,3.8,52
+OH,High St & Spring St,Aug,133,3.6,72.3
+OH,High St & Spring St,Dec,25,2.7,32.5
+OH,High St & Spring St,Feb,42,2.1,30.9
+OH,High St & Spring St,Jan,33,2.8,27.3
+OH,High St & Spring St,Jul,180,3.9,74.3
+OH,High St & Spring St,Jun,144,3.9,70.7
+OH,High St & Spring St,Mar,29,3.4,41.9
+OH,High St & Spring St,May,130,4.1,62.1
+OH,High St & Spring St,Nov,60,2.8,43.7
+OH,High St & Spring St,Oct,134,2.2,54.7
+OH,High St & Spring St,Sep,130,2.7,66.2
+OH,High St & Warren,Apr,191,3.8,52
+OH,High St & Warren,Aug,183,3.6,72.3
+OH,High St & Warren,Dec,19,2.7,32.5
+OH,High St & Warren,Feb,76,2.1,30.9
+OH,High St & Warren,Jan,26,2.8,27.3
+OH,High St & Warren,Jul,287,3.9,74.3
+OH,High St & Warren,Jun,267,3.9,70.7
+OH,High St & Warren,Mar,57,3.4,41.9
+OH,High St & Warren,May,210,4.1,62.1
+OH,High St & Warren,Nov,37,2.8,43.7
+OH,High St & Warren,Oct,146,2.2,54.7
+OH,High St & Warren,Sep,192,2.7,66.2
+OH,Jaeger St & Whittier St,Apr,43,3.8,52
+OH,Jaeger St & Whittier St,Aug,75,3.6,72.3
+OH,Jaeger St & Whittier St,Dec,5,2.7,32.5
+OH,Jaeger St & Whittier St,Feb,30,2.1,30.9
+OH,Jaeger St & Whittier St,Jan,14,2.8,27.3
+OH,Jaeger St & Whittier St,Jul,141,3.9,74.3
+OH,Jaeger St & Whittier St,Jun,103,3.9,70.7
+OH,Jaeger St & Whittier St,Mar,27,3.4,41.9
+OH,Jaeger St & Whittier St,May,61,4.1,62.1
+OH,Jaeger St & Whittier St,Nov,13,2.8,43.7
+OH,Jaeger St & Whittier St,Oct,30,2.2,54.7
+OH,Jaeger St & Whittier St,Sep,68,2.7,66.2
+OH,Kilbourne St & Vine St,Apr,69,3.8,52
+OH,Kilbourne St & Vine St,Aug,69,3.6,72.3
+OH,Kilbourne St & Vine St,Dec,9,2.7,32.5
+OH,Kilbourne St & Vine St,Feb,27,2.1,30.9
+OH,Kilbourne St & Vine St,Jan,17,2.8,27.3
+OH,Kilbourne St & Vine St,Jul,77,3.9,74.3
+OH,Kilbourne St & Vine St,Jun,78,3.9,70.7
+OH,Kilbourne St & Vine St,Mar,26,3.4,41.9
+OH,Kilbourne St & Vine St,May,48,4.1,62.1
+OH,Kilbourne St & Vine St,Nov,9,2.8,43.7
+OH,Kilbourne St & Vine St,Oct,38,2.2,54.7
+OH,Kilbourne St & Vine St,Sep,42,2.7,66.2
+OH,Lane Ave at Olentangy Trail,Apr,99,3.8,52
+OH,Lane Ave at Olentangy Trail,Aug,100,3.6,72.3
+OH,Lane Ave at Olentangy Trail,Dec,2,2.7,32.5
+OH,Lane Ave at Olentangy Trail,Feb,30,2.1,30.9
+OH,Lane Ave at Olentangy Trail,Jan,15,2.8,27.3
+OH,Lane Ave at Olentangy Trail,Jul,92,3.9,74.3
+OH,Lane Ave at Olentangy Trail,Jun,165,3.9,70.7
+OH,Lane Ave at Olentangy Trail,Mar,30,3.4,41.9
+OH,Lane Ave at Olentangy Trail,May,86,4.1,62.1
+OH,Lane Ave at Olentangy Trail,Nov,16,2.8,43.7
+OH,Lane Ave at Olentangy Trail,Oct,68,2.2,54.7
+OH,Lane Ave at Olentangy Trail,Sep,93,2.7,66.2
+OH,Library - Main Branch,Apr,56,3.8,52
+OH,Library - Main Branch,Aug,65,3.6,72.3
+OH,Library - Main Branch,Dec,9,2.7,32.5
+OH,Library - Main Branch,Feb,33,2.1,30.9
+OH,Library - Main Branch,Jan,26,2.8,27.3
+OH,Library - Main Branch,Jul,56,3.9,74.3
+OH,Library - Main Branch,Jun,46,3.9,70.7
+OH,Library - Main Branch,Mar,47,3.4,41.9
+OH,Library - Main Branch,May,61,4.1,62.1
+OH,Library - Main Branch,Nov,21,2.8,43.7
+OH,Library - Main Branch,Oct,53,2.2,54.7
+OH,Library - Main Branch,Sep,63,2.7,66.2
+OH,Livingston Park,Apr,26,3.8,52
+OH,Livingston Park,Aug,72,3.6,72.3
+OH,Livingston Park,Dec,1,2.7,32.5
+OH,Livingston Park,Feb,16,2.1,30.9
+OH,Livingston Park,Jan,4,2.8,27.3
+OH,Livingston Park,Jul,76,3.9,74.3
+OH,Livingston Park,Jun,26,3.9,70.7
+OH,Livingston Park,Mar,16,3.4,41.9
+OH,Livingston Park,May,11,4.1,62.1
+OH,Livingston Park,Nov,14,2.8,43.7
+OH,Livingston Park,Oct,35,2.2,54.7
+OH,Livingston Park,Sep,31,2.7,66.2
+OH,Lucas St & Town St,Apr,105,3.8,52
+OH,Lucas St & Town St,Aug,119,3.6,72.3
+OH,Lucas St & Town St,Dec,44,2.7,32.5
+OH,Lucas St & Town St,Feb,67,2.1,30.9
+OH,Lucas St & Town St,Jan,54,2.8,27.3
+OH,Lucas St & Town St,Jul,143,3.9,74.3
+OH,Lucas St & Town St,Jun,151,3.9,70.7
+OH,Lucas St & Town St,Mar,67,3.4,41.9
+OH,Lucas St & Town St,May,126,4.1,62.1
+OH,Lucas St & Town St,Nov,58,2.8,43.7
+OH,Lucas St & Town St,Oct,123,2.2,54.7
+OH,Lucas St & Town St,Sep,116,2.7,66.2
+OH,Market District & 3rd Ave,Apr,56,3.8,52
+OH,Market District & 3rd Ave,Aug,72,3.6,72.3
+OH,Market District & 3rd Ave,Dec,10,2.7,32.5
+OH,Market District & 3rd Ave,Feb,26,2.1,30.9
+OH,Market District & 3rd Ave,Jan,4,2.8,27.3
+OH,Market District & 3rd Ave,Jul,125,3.9,74.3
+OH,Market District & 3rd Ave,Jun,105,3.9,70.7
+OH,Market District & 3rd Ave,Mar,18,3.4,41.9
+OH,Market District & 3rd Ave,May,50,4.1,62.1
+OH,Market District & 3rd Ave,Nov,3,2.8,43.7
+OH,Market District & 3rd Ave,Oct,43,2.2,54.7
+OH,Market District & 3rd Ave,Sep,47,2.7,66.2
+OH,Michigan Ave & 3rd Ave,Apr,96,3.8,52
+OH,Michigan Ave & 3rd Ave,Aug,129,3.6,72.3
+OH,Michigan Ave & 3rd Ave,Dec,3,2.7,32.5
+OH,Michigan Ave & 3rd Ave,Feb,40,2.1,30.9
+OH,Michigan Ave & 3rd Ave,Jan,28,2.8,27.3
+OH,Michigan Ave & 3rd Ave,Jul,173,3.9,74.3
+OH,Michigan Ave & 3rd Ave,Jun,160,3.9,70.7
+OH,Michigan Ave & 3rd Ave,Mar,32,3.4,41.9
+OH,Michigan Ave & 3rd Ave,May,104,4.1,62.1
+OH,Michigan Ave & 3rd Ave,Nov,21,2.8,43.7
+OH,Michigan Ave & 3rd Ave,Oct,75,2.2,54.7
+OH,Michigan Ave & 3rd Ave,Sep,125,2.7,66.2
+OH,Nationwide Arena - Front St,Apr,155,3.8,52
+OH,Nationwide Arena - Front St,Aug,214,3.6,72.3
+OH,Nationwide Arena - Front St,Dec,33,2.7,32.5
+OH,Nationwide Arena - Front St,Feb,36,2.1,30.9
+OH,Nationwide Arena - Front St,Jan,23,2.8,27.3
+OH,Nationwide Arena - Front St,Jul,169,3.9,74.3
+OH,Nationwide Arena - Front St,Jun,190,3.9,70.7
+OH,Nationwide Arena - Front St,Mar,61,3.4,41.9
+OH,Nationwide Arena - Front St,May,138,4.1,62.1
+OH,Nationwide Arena - Front St,Nov,72,2.8,43.7
+OH,Nationwide Arena - Front St,Oct,158,2.2,54.7
+OH,Nationwide Arena - Front St,Sep,150,2.7,66.2
+OH,Neil Ave & 11th Ave,Apr,76,3.8,52
+OH,Neil Ave & 11th Ave,Aug,134,3.6,72.3
+OH,Neil Ave & 11th Ave,Dec,28,2.7,32.5
+OH,Neil Ave & 11th Ave,Feb,38,2.1,30.9
+OH,Neil Ave & 11th Ave,Jan,44,2.8,27.3
+OH,Neil Ave & 11th Ave,Jul,129,3.9,74.3
+OH,Neil Ave & 11th Ave,Jun,121,3.9,70.7
+OH,Neil Ave & 11th Ave,Mar,48,3.4,41.9
+OH,Neil Ave & 11th Ave,May,62,4.1,62.1
+OH,Neil Ave & 11th Ave,Nov,42,2.8,43.7
+OH,Neil Ave & 11th Ave,Oct,109,2.2,54.7
+OH,Neil Ave & 11th Ave,Sep,180,2.7,66.2
+OH,Neil Ave & Buttles Ave,Apr,190,3.8,52
+OH,Neil Ave & Buttles Ave,Aug,169,3.6,72.3
+OH,Neil Ave & Buttles Ave,Dec,31,2.7,32.5
+OH,Neil Ave & Buttles Ave,Feb,78,2.1,30.9
+OH,Neil Ave & Buttles Ave,Jan,60,2.8,27.3
+OH,Neil Ave & Buttles Ave,Jul,221,3.9,74.3
+OH,Neil Ave & Buttles Ave,Jun,174,3.9,70.7
+OH,Neil Ave & Buttles Ave,Mar,68,3.4,41.9
+OH,Neil Ave & Buttles Ave,May,174,4.1,62.1
+OH,Neil Ave & Buttles Ave,Nov,37,2.8,43.7
+OH,Neil Ave & Buttles Ave,Oct,128,2.2,54.7
+OH,Neil Ave & Buttles Ave,Sep,153,2.7,66.2
+OH,Neil Ave & King Ave,Apr,90,3.8,52
+OH,Neil Ave & King Ave,Aug,115,3.6,72.3
+OH,Neil Ave & King Ave,Dec,52,2.7,32.5
+OH,Neil Ave & King Ave,Feb,69,2.1,30.9
+OH,Neil Ave & King Ave,Jan,46,2.8,27.3
+OH,Neil Ave & King Ave,Jul,135,3.9,74.3
+OH,Neil Ave & King Ave,Jun,134,3.9,70.7
+OH,Neil Ave & King Ave,Mar,63,3.4,41.9
+OH,Neil Ave & King Ave,May,88,4.1,62.1
+OH,Neil Ave & King Ave,Nov,60,2.8,43.7
+OH,Neil Ave & King Ave,Oct,82,2.2,54.7
+OH,Neil Ave & King Ave,Sep,102,2.7,66.2
+OH,Neil Ave & Nationwide Blvd,Apr,191,3.8,52
+OH,Neil Ave & Nationwide Blvd,Aug,236,3.6,72.3
+OH,Neil Ave & Nationwide Blvd,Dec,22,2.7,32.5
+OH,Neil Ave & Nationwide Blvd,Feb,91,2.1,30.9
+OH,Neil Ave & Nationwide Blvd,Jan,45,2.8,27.3
+OH,Neil Ave & Nationwide Blvd,Jul,244,3.9,74.3
+OH,Neil Ave & Nationwide Blvd,Jun,269,3.9,70.7
+OH,Neil Ave & Nationwide Blvd,Mar,76,3.4,41.9
+OH,Neil Ave & Nationwide Blvd,May,275,4.1,62.1
+OH,Neil Ave & Nationwide Blvd,Nov,47,2.8,43.7
+OH,Neil Ave & Nationwide Blvd,Oct,129,2.2,54.7
+OH,Neil Ave & Nationwide Blvd,Sep,208,2.7,66.2
+OH,North Market,Apr,202,3.8,52
+OH,North Market,Aug,258,3.6,72.3
+OH,North Market,Dec,30,2.7,32.5
+OH,North Market,Feb,83,2.1,30.9
+OH,North Market,Jan,40,2.8,27.3
+OH,North Market,Jul,399,3.9,74.3
+OH,North Market,Jun,297,3.9,70.7
+OH,North Market,Mar,80,3.4,41.9
+OH,North Market,May,202,4.1,62.1
+OH,North Market,Nov,54,2.8,43.7
+OH,North Market,Oct,133,2.2,54.7
+OH,North Market,Sep,225,2.7,66.2
+OH,Parsons Ave & Oak St,Apr,73,3.8,52
+OH,Parsons Ave & Oak St,Aug,55,3.6,72.3
+OH,Parsons Ave & Oak St,Dec,12,2.7,32.5
+OH,Parsons Ave & Oak St,Feb,28,2.1,30.9
+OH,Parsons Ave & Oak St,Jan,43,2.8,27.3
+OH,Parsons Ave & Oak St,Jul,91,3.9,74.3
+OH,Parsons Ave & Oak St,Jun,72,3.9,70.7
+OH,Parsons Ave & Oak St,Mar,36,3.4,41.9
+OH,Parsons Ave & Oak St,May,71,4.1,62.1
+OH,Parsons Ave & Oak St,Nov,16,2.8,43.7
+OH,Parsons Ave & Oak St,Oct,46,2.2,54.7
+OH,Parsons Ave & Oak St,Sep,66,2.7,66.2
+OH,Schiller Park - Stewart Ave,Apr,93,3.8,52
+OH,Schiller Park - Stewart Ave,Aug,133,3.6,72.3
+OH,Schiller Park - Stewart Ave,Dec,6,2.7,32.5
+OH,Schiller Park - Stewart Ave,Feb,20,2.1,30.9
+OH,Schiller Park - Stewart Ave,Jan,11,2.8,27.3
+OH,Schiller Park - Stewart Ave,Jul,186,3.9,74.3
+OH,Schiller Park - Stewart Ave,Jun,131,3.9,70.7
+OH,Schiller Park - Stewart Ave,Mar,35,3.4,41.9
+OH,Schiller Park - Stewart Ave,May,107,4.1,62.1
+OH,Schiller Park - Stewart Ave,Nov,7,2.8,43.7
+OH,Schiller Park - Stewart Ave,Oct,102,2.2,54.7
+OH,Schiller Park - Stewart Ave,Sep,98,2.7,66.2
+OH,Scioto Audubon Center,Apr,210,3.8,52
+OH,Scioto Audubon Center,Aug,300,3.6,72.3
+OH,Scioto Audubon Center,Dec,27,2.7,32.5
+OH,Scioto Audubon Center,Feb,77,2.1,30.9
+OH,Scioto Audubon Center,Jan,11,2.8,27.3
+OH,Scioto Audubon Center,Jul,357,3.9,74.3
+OH,Scioto Audubon Center,Jun,273,3.9,70.7
+OH,Scioto Audubon Center,Mar,57,3.4,41.9
+OH,Scioto Audubon Center,May,302,4.1,62.1
+OH,Scioto Audubon Center,Nov,45,2.8,43.7
+OH,Scioto Audubon Center,Oct,130,2.2,54.7
+OH,Scioto Audubon Center,Sep,261,2.7,66.2
+OH,Sensenbrenner Park,Apr,155,3.8,52
+OH,Sensenbrenner Park,Aug,120,3.6,72.3
+OH,Sensenbrenner Park,Dec,56,2.7,32.5
+OH,Sensenbrenner Park,Feb,72,2.1,30.9
+OH,Sensenbrenner Park,Jan,50,2.8,27.3
+OH,Sensenbrenner Park,Jul,200,3.9,74.3
+OH,Sensenbrenner Park,Jun,170,3.9,70.7
+OH,Sensenbrenner Park,Mar,78,3.4,41.9
+OH,Sensenbrenner Park,May,143,4.1,62.1
+OH,Sensenbrenner Park,Nov,78,2.8,43.7
+OH,Sensenbrenner Park,Oct,125,2.2,54.7
+OH,Sensenbrenner Park,Sep,132,2.7,66.2
+OH,Thurman Ave & Bruck St,Apr,55,3.8,52
+OH,Thurman Ave & Bruck St,Aug,80,3.6,72.3
+OH,Thurman Ave & Bruck St,Dec,2,2.7,32.5
+OH,Thurman Ave & Bruck St,Feb,12,2.1,30.9
+OH,Thurman Ave & Bruck St,Jan,4,2.8,27.3
+OH,Thurman Ave & Bruck St,Jul,79,3.9,74.3
+OH,Thurman Ave & Bruck St,Jun,92,3.9,70.7
+OH,Thurman Ave & Bruck St,Mar,16,3.4,41.9
+OH,Thurman Ave & Bruck St,May,77,4.1,62.1
+OH,Thurman Ave & Bruck St,Nov,8,2.8,43.7
+OH,Thurman Ave & Bruck St,Oct,22,2.2,54.7
+OH,Thurman Ave & Bruck St,Sep,78,2.7,66.2
+OH,Topiary Park - Town St,Apr,156,3.8,52
+OH,Topiary Park - Town St,Aug,107,3.6,72.3
+OH,Topiary Park - Town St,Dec,32,2.7,32.5
+OH,Topiary Park - Town St,Feb,70,2.1,30.9
+OH,Topiary Park - Town St,Jan,116,2.8,27.3
+OH,Topiary Park - Town St,Jul,132,3.9,74.3
+OH,Topiary Park - Town St,Jun,152,3.9,70.7
+OH,Topiary Park - Town St,Mar,119,3.4,41.9
+OH,Topiary Park - Town St,May,166,4.1,62.1
+OH,Topiary Park - Town St,Nov,55,2.8,43.7
+OH,Topiary Park - Town St,Oct,91,2.2,54.7
+OH,Topiary Park - Town St,Sep,102,2.7,66.2
+OH,Weinland Park - 6th Ave,Apr,45,3.8,52
+OH,Weinland Park - 6th Ave,Aug,61,3.6,72.3
+OH,Weinland Park - 6th Ave,Dec,21,2.7,32.5
+OH,Weinland Park - 6th Ave,Feb,23,2.1,30.9
+OH,Weinland Park - 6th Ave,Jan,17,2.8,27.3
+OH,Weinland Park - 6th Ave,Jul,70,3.9,74.3
+OH,Weinland Park - 6th Ave,Jun,49,3.9,70.7
+OH,Weinland Park - 6th Ave,Mar,27,3.4,41.9
+OH,Weinland Park - 6th Ave,May,43,4.1,62.1
+OH,Weinland Park - 6th Ave,Nov,54,2.8,43.7
+OH,Weinland Park - 6th Ave,Oct,88,2.2,54.7
+OH,Weinland Park - 6th Ave,Sep,92,2.7,66.2
